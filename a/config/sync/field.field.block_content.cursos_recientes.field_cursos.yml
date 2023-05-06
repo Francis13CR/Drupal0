@@ -1,0 +1,21 @@
+uuid: d21630ce-43d3-4318-9709-e15f2688384c
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.cursos_recientes
+    - field.storage.block_content.field_cursos
+id: block_content.cursos_recientes.field_cursos
+field_name: field_cursos
+entity_type: block_content
+bundle: cursos_recientes
+label: cursos
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: views
+  handler_settings: {  }
+field_type: entity_reference

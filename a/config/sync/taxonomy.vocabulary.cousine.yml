@@ -1,0 +1,8 @@
+uuid: 7afd6278-53c7-4bf1-a24e-0c392ae491d5
+langcode: en
+status: true
+dependencies: {  }
+name: cousine
+vid: cousine
+description: 'Examples; mexican, italian'
+weight: 0

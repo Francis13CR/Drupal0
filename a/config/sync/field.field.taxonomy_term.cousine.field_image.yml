@@ -1,0 +1,21 @@
+uuid: 8607dbc5-65e9-4b2c-b321-09eea10a0415
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_image
+    - taxonomy.vocabulary.cousine
+id: taxonomy_term.cousine.field_image
+field_name: field_image
+entity_type: taxonomy_term
+bundle: cousine
+label: image
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings: {  }
+field_type: entity_reference

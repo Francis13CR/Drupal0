@@ -1,0 +1,8 @@
+uuid: f3c90ea2-3e90-46a6-8cdc-0a5e1f389fa0
+langcode: en
+status: true
+dependencies: {  }
+name: 'Tipo de curso'
+vid: tipo_de_curso
+description: 'social, medico, TI, etc'
+weight: 0

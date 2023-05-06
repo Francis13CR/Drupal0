@@ -1,0 +1,8 @@
+uuid: 1b8c3841-1d9a-4915-95d6-7249402e7c81
+langcode: en
+status: true
+dependencies: {  }
+name: Format
+vid: format
+description: 'dish format: dessert, pastries, etc.'
+weight: 0

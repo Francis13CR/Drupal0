@@ -1,0 +1,12 @@
+uuid: ea734448-8e43-4933-b848-b22c291f2fe3
+langcode: en
+status: true
+dependencies: {  }
+id: feedback1
+label: feedback
+recipients:
+  - soporte@sitio.com
+reply: ''
+weight: 0
+message: 'contact us'
+redirect: ''

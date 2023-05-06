@@ -1,0 +1,29 @@
+uuid: 04a6d3d8-bede-4b22-8b7f-41bd0edfc086
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_image_media
+    - media.type.image
+    - node.type.recipes
+id: node.recipes.field_image_media
+field_name: field_image_media
+entity_type: node
+bundle: recipes
+label: IMAGE
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings:
+    target_bundles:
+      image: image
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

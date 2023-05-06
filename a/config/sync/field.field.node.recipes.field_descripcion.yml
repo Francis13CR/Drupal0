@@ -1,0 +1,21 @@
+uuid: fa72179a-823a-482a-a179-8d45d7049d5f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_descripcion
+    - node.type.recipes
+  module:
+    - text
+id: node.recipes.field_descripcion
+field_name: field_descripcion
+entity_type: node
+bundle: recipes
+label: descripción
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

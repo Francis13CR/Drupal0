@@ -1,0 +1,19 @@
+uuid: 608ba48f-ba03-4fa9-b9c1-64230ded1ebd
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+id: block_content.field_cursos
+field_name: field_cursos
+entity_type: block_content
+type: entity_reference
+settings:
+  target_type: block_content
+module: core
+locked: false
+cardinality: 3
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

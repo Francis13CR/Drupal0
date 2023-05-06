@@ -1,0 +1,21 @@
+uuid: 5bd170cd-f4b8-41a7-adc7-147477168bd7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_image_responsive
+    - node.type.recipes
+id: node.recipes.field_image_responsive
+field_name: field_image_responsive
+entity_type: node
+bundle: recipes
+label: image_responsive
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings: {  }
+field_type: entity_reference

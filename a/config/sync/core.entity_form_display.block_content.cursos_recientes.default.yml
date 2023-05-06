@@ -1,0 +1,42 @@
+uuid: 1dc534d5-25bc-4cc8-851d-61973428043c
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.cursos_recientes
+    - field.field.block_content.cursos_recientes.field_cr
+    - field.field.block_content.cursos_recientes.field_cursos
+id: block_content.cursos_recientes.default
+targetEntityType: block_content
+bundle: cursos_recientes
+mode: default
+content:
+  field_cr:
+    type: entity_reference_autocomplete
+    weight: 28
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_cursos:
+    type: entity_reference_autocomplete
+    weight: 27
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  info:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }

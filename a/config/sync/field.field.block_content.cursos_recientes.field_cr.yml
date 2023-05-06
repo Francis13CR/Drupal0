@@ -1,0 +1,28 @@
+uuid: 4327566a-a408-43c0-b604-666ecaea1485
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.cursos_recientes
+    - field.storage.block_content.field_cr
+id: block_content.cursos_recientes.field_cr
+field_name: field_cr
+entity_type: block_content
+bundle: cursos_recientes
+label: 'Cursos recientes'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:block_content'
+  handler_settings:
+    target_bundles:
+      cursos_recientes: cursos_recientes
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference
