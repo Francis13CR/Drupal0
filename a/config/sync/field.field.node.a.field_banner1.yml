@@ -1,0 +1,29 @@
+uuid: 58480ff9-c0e7-4c16-8db9-ed49948a5248
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_banner1
+    - node.type.a
+  module:
+    - entity_reference_revisions
+id: node.a.field_banner1
+field_name: field_banner1
+entity_type: node
+bundle: a
+label: banner
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles: null
+    negate: 0
+    target_bundles_drag_drop:
+      banner:
+        weight: 2
+        enabled: false
+field_type: entity_reference_revisions

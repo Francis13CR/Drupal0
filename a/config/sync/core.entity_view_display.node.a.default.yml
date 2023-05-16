@@ -1,0 +1,39 @@
+uuid: fc2708cc-ffec-4785-a57a-1a750ab66ccf
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.a.body
+    - field.field.node.a.field_banner1
+    - node.type.a
+  module:
+    - entity_reference_revisions
+    - text
+    - user
+id: node.a.default
+targetEntityType: node
+bundle: a
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  field_banner1:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden: {  }

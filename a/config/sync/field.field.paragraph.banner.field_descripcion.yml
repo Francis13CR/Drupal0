@@ -1,0 +1,24 @@
+uuid: 2b4b2fb6-9d9b-4c43-ae67-2d054413d3db
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_descripcion
+    - paragraphs.paragraphs_type.banner
+  module:
+    - text
+id: paragraph.banner.field_descripcion
+field_name: field_descripcion
+entity_type: paragraph
+bundle: banner
+label: descripción
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo nisl, venenatis semper iaculis sit amet, porta et magna. Morbi luctus, mi eu vulputate ultricies, turpis nibh aliquet velit, sodales dictum nisl libero vitae metus. Aliquam viverra semper f'
+    format: basic_html
+default_value_callback: ''
+settings: {  }
+field_type: text

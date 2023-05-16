@@ -1,0 +1,23 @@
+uuid: debe6127-f9e8-4a2d-b8e4-575f17008a84
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.a
+  module:
+    - text
+id: node.a.body
+field_name: body
+entity_type: node
+bundle: a
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary
