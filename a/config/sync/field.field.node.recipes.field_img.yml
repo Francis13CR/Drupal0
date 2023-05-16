@@ -1,16 +1,16 @@
-uuid: 04a6d3d8-bede-4b22-8b7f-41bd0edfc086
+uuid: f969c19c-107e-4717-a6b2-ec1d71a980ed
 langcode: en
 status: true
 dependencies:
   config:
-    - field.storage.node.field_image_media
+    - field.storage.node.field_img
     - media.type.image
     - node.type.recipes
-id: node.recipes.field_image_media
-field_name: field_image_media
+id: node.recipes.field_img
+field_name: field_img
 entity_type: node
 bundle: recipes
-label: IMAGE
+label: img
 description: ''
 required: false
 translatable: false

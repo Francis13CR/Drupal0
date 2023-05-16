@@ -10,8 +10,7 @@ dependencies:
     - field.field.node.recipes.field_descripcion
     - field.field.node.recipes.field_difficulty
     - field.field.node.recipes.field_format
-    - field.field.node.recipes.field_image_media
-    - field.field.node.recipes.field_image_responsive
+    - field.field.node.recipes.field_img
     - field.field.node.recipes.field_ingredients
     - field.field.node.recipes.field_time
     - node.type.recipes
@@ -34,7 +33,6 @@ hidden:
   field_descripcion: true
   field_difficulty: true
   field_format: true
-  field_image_media: true
-  field_image_responsive: true
+  field_img: true
   field_ingredients: true
   field_time: true

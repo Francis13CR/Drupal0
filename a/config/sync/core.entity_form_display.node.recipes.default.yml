@@ -9,8 +9,7 @@ dependencies:
     - field.field.node.recipes.field_descripcion
     - field.field.node.recipes.field_difficulty
     - field.field.node.recipes.field_format
-    - field.field.node.recipes.field_image_media
-    - field.field.node.recipes.field_image_responsive
+    - field.field.node.recipes.field_img
     - field.field.node.recipes.field_ingredients
     - field.field.node.recipes.field_time
     - node.type.recipes
@@ -80,16 +79,9 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-  field_image_media:
+  field_img:
     type: media_library_widget
-    weight: 132
-    region: content
-    settings:
-      media_types: {  }
-    third_party_settings: {  }
-  field_image_responsive:
-    type: media_library_widget
-    weight: 133
+    weight: 134
     region: content
     settings:
       media_types: {  }
