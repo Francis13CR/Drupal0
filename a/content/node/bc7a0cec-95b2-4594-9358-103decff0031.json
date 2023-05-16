@@ -1,0 +1,287 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/node\/83?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/type\/node\/recipes"
+        },
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/user\/0?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_chef": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/node\/39?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_cuisine": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_format": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/antehabeo-cogo-quidne.?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_image_media": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/abico-humo-magna-neque-plaga-proprius-roto-tum-venio-vicis.?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_image_responsive": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/abico-humo-magna-neque-plaga-proprius-roto-tum-venio-vicis.?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 83
+        }
+    ],
+    "uuid": [
+        {
+            "value": "bc7a0cec-95b2-4594-9358-103decff0031"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "recipes"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-01T15:55:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c6417ea4-1bc5-4f51-80d5-fb53c38bdd70"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c6417ea4-1bc5-4f51-80d5-fb53c38bdd70"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_chef": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/node\/39?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/type\/node\/chefs"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "933680c8-51df-4a8e-a989-09a01f6de691"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_cuisine": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/type\/taxonomy_term\/cousine"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e5140dfe-7e1c-497f-92e4-f10b076316af"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_format": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/antehabeo-cogo-quidne.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/type\/taxonomy_term\/format"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "27592a94-418e-4888-8175-649237ff89f1"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_image_media": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/abico-humo-magna-neque-plaga-proprius-roto-tum-venio-vicis.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/type\/media\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b6c2ae7c-43d7-4c0e-9142-cdaa63fb2f21"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/node\/recipes\/field_image_responsive": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/abico-humo-magna-neque-plaga-proprius-roto-tum-venio-vicis.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/type\/media\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b6c2ae7c-43d7-4c0e-9142-cdaa63fb2f21"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Quia Similis",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-04-29T03:41:12+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-01T15:55:39+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "field_comments": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1682956539,
+            "last_comment_name": null,
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_descripcion": [
+        {
+            "value": "Ex qui vereor volutpat. Autem eligo hendrerit letalis ludus roto velit vulputate. Abico appellatio imputo loquor mauris nimis odio torqueo. Aptent pertineo sit velit.",
+            "format": "plain_text",
+            "processed": "<p>Ex qui vereor volutpat. Autem eligo hendrerit letalis ludus roto velit vulputate. Abico appellatio imputo loquor mauris nimis odio torqueo. Aptent pertineo sit velit.<\/p>\n"
+        }
+    ],
+    "field_difficulty": [
+        {
+            "value": "hard"
+        }
+    ],
+    "field_ingredients": [
+        {
+            "value": "Autem defui minim quidem ymo. Antehabeo blandit loquor metuo minim natu populus saepius. Conventio magna mauris neque plaga quidem ymo. Et incassum jugis. Capto dolore dolus ex haero importunus pala turpis voco zelus. Esca huic iriure iustum.",
+            "format": "plain_text",
+            "processed": "<p>Autem defui minim quidem ymo. Antehabeo blandit loquor metuo minim natu populus saepius. Conventio magna mauris neque plaga quidem ymo. Et incassum jugis. Capto dolore dolus ex haero importunus pala turpis voco zelus. Esca huic iriure iustum.<\/p>\n"
+        }
+    ],
+    "field_time": [
+        {
+            "value": 748
+        }
+    ]
+}
