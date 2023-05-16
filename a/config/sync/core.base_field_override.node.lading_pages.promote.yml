@@ -1,0 +1,22 @@
+uuid: b56e495d-a6a9-4c5e-a674-a507ad03df8d
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.lading_pages
+id: node.lading_pages.promote
+field_name: promote
+entity_type: node
+bundle: lading_pages
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean
