@@ -1,0 +1,29 @@
+uuid: 6f659f05-5c73-4f77-8faf-391f2d121555
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_carreras_relax
+    - node.type.carrera
+    - node.type.curso1
+id: node.curso1.field_carreras_relax
+field_name: field_carreras_relax
+entity_type: node
+bundle: curso1
+label: 'carreras relacionadas'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      carrera: carrera
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

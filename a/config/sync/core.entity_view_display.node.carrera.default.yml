@@ -1,0 +1,143 @@
+uuid: c225cfd2-41f6-4d61-ac83-1f974c29e139
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.carrera.body
+    - field.field.node.carrera.field_campus_en_que_se_imparte
+    - field.field.node.carrera.field_ficha_profesional
+    - node.type.carrera
+  module:
+    - file
+    - layout_builder
+    - layout_discovery
+    - text
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: false
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: a
+          context_mapping: {  }
+        components:
+          fdb8e745-655d-473b-b045-d392c5e01a4e:
+            uuid: fdb8e745-655d-473b-b045-d392c5e01a4e
+            region: content
+            configuration:
+              id: 'field_block:node:carrera:type'
+              label: 'Tipo:'
+              label_display: visible
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: hidden
+                settings:
+                  link: false
+                third_party_settings: {  }
+            weight: 0
+            additional: {  }
+        third_party_settings: {  }
+      -
+        layout_id: layout_twocol_section
+        layout_settings:
+          label: 'info carrera'
+          context_mapping: {  }
+          column_widths: 50-50
+        components:
+          b35d4920-500a-4d94-ac14-c8c34e5ae668:
+            uuid: b35d4920-500a-4d94-ac14-c8c34e5ae668
+            region: first
+            configuration:
+              id: 'field_block:node:carrera:field_campus_en_que_se_imparte'
+              label: 'campus en que se imparte'
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: true
+                third_party_settings: {  }
+            weight: 0
+            additional: {  }
+          d4b60db7-f2b3-4a57-9eea-72b0b9e048d1:
+            uuid: d4b60db7-f2b3-4a57-9eea-72b0b9e048d1
+            region: second
+            configuration:
+              id: 'field_block:node:carrera:field_ficha_profesional'
+              label: 'Ficha Profesional'
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: file_default
+                label: above
+                settings:
+                  use_description_as_link_text: false
+                third_party_settings: {  }
+            weight: 0
+            additional: {  }
+        third_party_settings: {  }
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+        components:
+          c3042900-0231-4cad-9ab8-d2fa62e2d5a3:
+            uuid: c3042900-0231-4cad-9ab8-d2fa62e2d5a3
+            region: content
+            configuration:
+              id: 'field_block:node:carrera:body'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: text_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 0
+            additional: {  }
+        third_party_settings: {  }
+id: node.carrera.default
+targetEntityType: node
+bundle: carrera
+mode: default
+content:
+  body:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_campus_en_que_se_imparte:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_ficha_profesional:
+    type: file_default
+    label: above
+    settings:
+      use_description_as_link_text: true
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  links: true
