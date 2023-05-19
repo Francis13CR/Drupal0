@@ -1,4 +1,4 @@
-uuid: 3cab2643-2952-4f72-a00f-5266fcaca94e
+uuid: b198897a-b5b5-4c15-b797-ff3890d5df49
 langcode: en
 status: true
 dependencies:
@@ -9,9 +9,9 @@ third_party_settings:
     available_menus:
       - main
     parent: 'main:'
-name: 'Curso old'
-type: curso
-description: cursos
+name: 'Curso univertisario'
+type: curso1
+description: ''
 help: ''
 new_revision: true
 preview_mode: 1

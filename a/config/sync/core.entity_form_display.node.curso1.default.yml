@@ -1,0 +1,68 @@
+uuid: 1fce40bf-b9da-478b-9af4-77c7824000c1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.curso1.body
+    - field.field.node.curso1.field_carreras_relax
+    - field.field.node.curso1.field_codigo_del_curso
+    - field.field.node.curso1.field_programa_del_curso
+    - node.type.curso1
+  module:
+    - file
+    - text
+id: node.curso1.default
+targetEntityType: node
+bundle: curso1
+mode: default
+content:
+  body:
+    type: text_textarea_with_summary
+    weight: 1
+    region: content
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+      show_summary: false
+    third_party_settings: {  }
+  field_carreras_relax:
+    type: entity_reference_autocomplete
+    weight: 4
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_codigo_del_curso:
+    type: string_textfield
+    weight: 2
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_programa_del_curso:
+    type: file_generic
+    weight: 3
+    region: content
+    settings:
+      progress_indicator: throbber
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  path: true
+  promote: true
+  status: true
+  sticky: true
+  uid: true

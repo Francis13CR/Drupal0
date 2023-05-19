@@ -1,0 +1,36 @@
+uuid: 4db21461-5dd0-4944-b33e-7138d1b5e283
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.curso1.body
+    - field.field.node.curso1.field_carreras_relax
+    - field.field.node.curso1.field_codigo_del_curso
+    - field.field.node.curso1.field_programa_del_curso
+    - node.type.curso1
+  module:
+    - text
+    - user
+id: node.curso1.teaser
+targetEntityType: node
+bundle: curso1
+mode: teaser
+content:
+  body:
+    type: text_summary_or_trimmed
+    label: hidden
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_carreras_relax: true
+  field_codigo_del_curso: true
+  field_programa_del_curso: true
