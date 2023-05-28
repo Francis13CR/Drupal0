@@ -1,0 +1,196 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/node\/362?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/node\/libro"
+        },
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/field_archivo": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/media\/12\/edit?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/field_portada_libro": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/camur-capto-comis-consequat-in-jumentum-zelus.?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 362
+        }
+    ],
+    "uuid": [
+        {
+            "value": "e4430afe-cc24-466c-9cac-577bbc43f56a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "libro"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-28T17:50:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/field_archivo": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/media\/12\/edit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/media\/archivos"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b0c3a4c9-d1df-4b6e-9a12-84f117b52d3b"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/field_portada_libro": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/camur-capto-comis-consequat-in-jumentum-zelus.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/media\/portada_libro"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c5c6a9ee-dc8d-4465-ba15-a4e813a45e56"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Si Te Venio Vindico",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-25T03:34:47+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-28T17:50:42+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Dolore enim magna quis. Humo proprius quae rusticus saepius. Abico defui feugiat lenis quidne veniam. Capto esse imputo luptatum sed vulputate. Bene feugiat imputo usitas. Blandit dolore erat eros esse jus oppeto refero te verto. Exerci haero pertineo ratis si vel. Diam dolore et eum ibidem loquor os populus premo.\n\nAbico elit ille in iusto tation vindico. Facilisis incassum te. Feugiat gravis iriure laoreet macto melior quidem usitas. Commoveo ideo quibus quidem singularis turpis usitas ut vulputate. Quae qui quidne sino. Commodo pala populus proprius quia si vereor. Autem eu hos proprius. Abdo aliquam gravis ille imputo jugis probo rusticus tation. Enim ullamcorper zelus.\n\nAliquip distineo patria. Abluo causa esca iaceo iriure modo paulatim quis refero valetudo. Humo immitto mos paulatim quidne typicus ullamcorper velit ymo. Autem blandit dignissim euismod incassum nobis refero voco. Autem letalis os probo. Consequat ea jus pagus secundum venio.\n\nExerci exputo saluto secundum tum velit. Causa ideo nisl odio. In sudo tum. Caecus consequat illum luctus neo quia quidne saepius voco. Causa facilisi ibidem inhibeo iusto iustum pecus scisco suscipere. At gravis mos neque ulciscor.\n\nNimis praemitto zelus. Enim lucidus luctus valde. Accumsan damnum erat esse premo refoveo saepius valde. Brevitas causa consequat esca ibidem lenis. Amet damnum letalis metuo ulciscor vicis. Commoveo defui diam facilisis interdico nostrud nutus refoveo saepius ulciscor. Abbas consectetuer distineo iaceo ille immitto incassum luctus tego. Acsi aptent elit enim illum imputo lucidus macto molior vulputate.\n\nGilvus nimis nobis. Diam erat melior minim utrum valetudo validus. Capto dignissim magna tego volutpat. Adipiscing amet eu exputo illum jugis metuo nunc occuro vicis. Acsi adipiscing comis ea feugiat hendrerit occuro plaga sed similis. Conventio dolore hendrerit hos in pala ullamcorper. Abigo antehabeo comis dolor dolus in mos nimis pala.\n\nAbico abigo cogo jumentum quae secundum ulciscor. Consectetuer facilisi iustum jugis oppeto sagaciter usitas. Abico consectetuer haero jugis luctus pecus pertineo tamen virtus. Dignissim melior tincidunt ullamcorper. Abdo quibus typicus utrum valetudo. Antehabeo blandit dolore hos jugis. Decet et fere gilvus incassum letalis. Abdo duis fere iusto iustum metuo nostrud quis uxor. Consectetuer dolor illum magna mos os praemitto refero validus vero.\n\nBene genitus interdico lucidus magna mauris olim validus. Aptent damnum dolor lucidus luctus neque populus ymo. Jugis letalis luptatum persto rusticus tum vereor. Abico consectetuer fere hendrerit luptatum nulla proprius sino ulciscor velit. Caecus consequat dolus incassum laoreet letalis macto si vindico. Autem jugis patria quis vel ymo.\n\nBrevitas consectetuer ille mos tincidunt velit vereor voco. Aliquip bene dignissim dolus singularis valde validus. Distineo paulatim saluto te tum. Ea enim esca eum haero huic nulla. Dignissim dolore imputo quidne torqueo. Commoveo elit incassum obruo occuro validus velit vereor. Abbas iaceo praemitto qui ratis saepius. Bene comis commoveo conventio incassum natu quibus similis tincidunt verto.\n\nGenitus haero illum mauris nulla sino. Abigo acsi dignissim gravis ille probo qui refoveo singularis venio. Letalis tation voco. Duis enim facilisi ibidem magna minim pala te usitas. Abdo abico causa incassum interdico laoreet uxor.\n\nHuic inhibeo luptatum melior. Commoveo haero ludus oppeto. Ad aliquip brevitas enim erat luptatum similis tego utrum. Esse neo pagus quia quidem te utrum vero. Illum meus nunc. Decet eros huic jugis natu odio patria velit.\n\nConsequat conventio exputo iaceo iusto scisco sudo tation typicus zelus. Inhibeo laoreet metuo natu nostrud nutus plaga quae similis. Abigo jus saepius vindico vulpes. Abigo appellatio exputo ille in iusto oppeto vulpes. Caecus gilvus lenis loquor mauris nunc quidem.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Dolore enim magna quis. Humo proprius quae rusticus saepius. Abico defui feugiat lenis quidne veniam. Capto esse imputo luptatum sed vulputate. Bene feugiat imputo usitas. Blandit dolore erat eros esse jus oppeto refero te verto. Exerci haero pertineo ratis si vel. Diam dolore et eum ibidem loquor os populus premo.<\/p>\n<p>Abico elit ille in iusto tation vindico. Facilisis incassum te. Feugiat gravis iriure laoreet macto melior quidem usitas. Commoveo ideo quibus quidem singularis turpis usitas ut vulputate. Quae qui quidne sino. Commodo pala populus proprius quia si vereor. Autem eu hos proprius. Abdo aliquam gravis ille imputo jugis probo rusticus tation. Enim ullamcorper zelus.<\/p>\n<p>Aliquip distineo patria. Abluo causa esca iaceo iriure modo paulatim quis refero valetudo. Humo immitto mos paulatim quidne typicus ullamcorper velit ymo. Autem blandit dignissim euismod incassum nobis refero voco. Autem letalis os probo. Consequat ea jus pagus secundum venio.<\/p>\n<p>Exerci exputo saluto secundum tum velit. Causa ideo nisl odio. In sudo tum. Caecus consequat illum luctus neo quia quidne saepius voco. Causa facilisi ibidem inhibeo iusto iustum pecus scisco suscipere. At gravis mos neque ulciscor.<\/p>\n<p>Nimis praemitto zelus. Enim lucidus luctus valde. Accumsan damnum erat esse premo refoveo saepius valde. Brevitas causa consequat esca ibidem lenis. Amet damnum letalis metuo ulciscor vicis. Commoveo defui diam facilisis interdico nostrud nutus refoveo saepius ulciscor. Abbas consectetuer distineo iaceo ille immitto incassum luctus tego. Acsi aptent elit enim illum imputo lucidus macto molior vulputate.<\/p>\n<p>Gilvus nimis nobis. Diam erat melior minim utrum valetudo validus. Capto dignissim magna tego volutpat. Adipiscing amet eu exputo illum jugis metuo nunc occuro vicis. Acsi adipiscing comis ea feugiat hendrerit occuro plaga sed similis. Conventio dolore hendrerit hos in pala ullamcorper. Abigo antehabeo comis dolor dolus in mos nimis pala.<\/p>\n<p>Abico abigo cogo jumentum quae secundum ulciscor. Consectetuer facilisi iustum jugis oppeto sagaciter usitas. Abico consectetuer haero jugis luctus pecus pertineo tamen virtus. Dignissim melior tincidunt ullamcorper. Abdo quibus typicus utrum valetudo. Antehabeo blandit dolore hos jugis. Decet et fere gilvus incassum letalis. Abdo duis fere iusto iustum metuo nostrud quis uxor. Consectetuer dolor illum magna mos os praemitto refero validus vero.<\/p>\n<p>Bene genitus interdico lucidus magna mauris olim validus. Aptent damnum dolor lucidus luctus neque populus ymo. Jugis letalis luptatum persto rusticus tum vereor. Abico consectetuer fere hendrerit luptatum nulla proprius sino ulciscor velit. Caecus consequat dolus incassum laoreet letalis macto si vindico. Autem jugis patria quis vel ymo.<\/p>\n<p>Brevitas consectetuer ille mos tincidunt velit vereor voco. Aliquip bene dignissim dolus singularis valde validus. Distineo paulatim saluto te tum. Ea enim esca eum haero huic nulla. Dignissim dolore imputo quidne torqueo. Commoveo elit incassum obruo occuro validus velit vereor. Abbas iaceo praemitto qui ratis saepius. Bene comis commoveo conventio incassum natu quibus similis tincidunt verto.<\/p>\n<p>Genitus haero illum mauris nulla sino. Abigo acsi dignissim gravis ille probo qui refoveo singularis venio. Letalis tation voco. Duis enim facilisi ibidem magna minim pala te usitas. Abdo abico causa incassum interdico laoreet uxor.<\/p>\n<p>Huic inhibeo luptatum melior. Commoveo haero ludus oppeto. Ad aliquip brevitas enim erat luptatum similis tego utrum. Esse neo pagus quia quidem te utrum vero. Illum meus nunc. Decet eros huic jugis natu odio patria velit.<\/p>\n<p>Consequat conventio exputo iaceo iusto scisco sudo tation typicus zelus. Inhibeo laoreet metuo natu nostrud nutus plaga quae similis. Abigo jus saepius vindico vulpes. Abigo appellatio exputo ille in iusto oppeto vulpes. Caecus gilvus lenis loquor mauris nunc quidem.<\/p>\n",
+            "summary": "Dolore enim magna quis. Humo proprius quae rusticus saepius. Abico defui feugiat lenis quidne veniam. Capto esse imputo luptatum sed vulputate. Bene feugiat imputo usitas. Blandit dolore erat eros esse jus oppeto refero te verto. Exerci haero pertineo ratis si vel. Diam dolore et eum ibidem loquor os populus premo.\n\nAbico elit ille in iusto tation vindico. Facilisis incassum te. Feugiat gravis iriure laoreet macto melior quidem usitas. Commoveo ideo quibus quidem singularis turpis usitas ut vulputate. Quae qui quidne sino. Commodo pala populus proprius quia si vereor. Autem eu hos proprius. Abdo aliquam gravis ille imputo jugis probo rusticus tation. Enim ullamcorper zelus.\n\nAliquip distineo patria. Abluo causa esca iaceo iriure modo paulatim quis refero valetudo. Humo immitto mos paulatim quidne typicus ullamcorper velit ymo. Autem blandit dignissim euismod incassum nobis refero voco. Autem letalis os probo. Consequat ea jus pagus secundum venio.\n\nExerci exputo saluto secundum tum velit. Causa ideo nisl odio. In sudo tum. Caecus consequat illum luctus neo quia quidne saepius voco. Causa facilisi ibidem inhibeo iusto iustum pecus scisco suscipere. At gravis mos neque ulciscor.\n\nNimis praemitto zelus. Enim lucidus luctus valde. Accumsan damnum erat esse premo refoveo saepius valde. Brevitas causa consequat esca ibidem lenis. Amet damnum letalis metuo ulciscor vicis. Commoveo defui diam facilisis interdico nostrud nutus refoveo saepius ulciscor. Abbas consectetuer distineo iaceo ille immitto incassum luctus tego. Acsi aptent elit enim illum imputo lucidus macto molior vulputate.\n\nGilvus nimis nobis. Diam erat melior minim utrum valetudo validus. Capto dignissim magna tego volutpat. Adipiscing amet eu exputo illum jugis metuo nunc occuro vicis. Acsi adipiscing comis ea feugiat hendrerit occuro plaga sed similis. Conventio dolore hendrerit hos in pala ullamcorper. Abigo antehabeo comis dolor dolus in mos nimis pala.\n\nAbico abigo cogo jumentum quae secundum ulciscor. Consectetuer facilisi iustum jugis oppeto sagaciter usitas. Abico consectetuer haero jugis luctus pecus pertineo tamen virtus. Dignissim melior tincidunt ullamcorper. Abdo quibus typicus utrum valetudo. Antehabeo blandit dolore hos jugis. Decet et fere gilvus incassum letalis. Abdo duis fere iusto iustum metuo nostrud quis uxor. Consectetuer dolor illum magna mos os praemitto refero validus vero.\n\nBene genitus interdico lucidus magna mauris olim validus. Aptent damnum dolor lucidus luctus neque populus ymo. Jugis letalis luptatum persto rusticus tum vereor. Abico consectetuer fere hendrerit luptatum nulla proprius sino ulciscor velit. Caecus consequat dolus incassum laoreet letalis macto si vindico. Autem jugis patria quis vel ymo.\n\nBrevitas consectetuer ille mos tincidunt velit vereor voco. Aliquip bene dignissim dolus singularis valde validus. Distineo paulatim saluto te tum. Ea enim esca eum haero huic nulla. Dignissim dolore imputo quidne torqueo. Commoveo elit incassum obruo occuro validus velit vereor. Abbas iaceo praemitto qui ratis saepius. Bene comis commoveo conventio incassum natu quibus similis tincidunt verto.\n\nGenitus haero illum mauris nulla sino. Abigo acsi dignissim gravis ille probo qui refoveo singularis venio. Letalis tation voco. Duis enim facilisi ibidem magna minim pala te usitas. Abdo abico causa incassum interdico laoreet uxor.\n\nHuic inhibeo luptatum melior. Commoveo haero ludus oppeto. Ad aliquip brevitas enim erat luptatum similis tego utrum. Esse neo pagus quia quidem te utrum vero. Illum meus nunc. Decet eros huic jugis natu odio patria velit.\n\nConsequat conventio exputo iaceo iusto scisco sudo tation typicus zelus. Inhibeo laoreet metuo natu nostrud nutus plaga quae similis. Abigo jus saepius vindico vulpes. Abigo appellatio exputo ille in iusto oppeto vulpes. Caecus gilvus lenis loquor mauris nunc quidem.\n\n",
+            "lang": "en"
+        }
+    ]
+}
