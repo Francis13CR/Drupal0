@@ -1,12 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/type\/taxonomy_term\/cousine"
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/cousine"
         },
-        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/taxonomy_term\/cousine\/parent": [
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/cousine\/parent": [
             null
         ]
     },
@@ -55,7 +55,7 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us97.gitpod.io\/rest\/relation\/taxonomy_term\/cousine\/parent": [
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/cousine\/parent": [
             null
         ]
     },
