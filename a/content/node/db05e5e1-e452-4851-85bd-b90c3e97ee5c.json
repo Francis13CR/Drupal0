@@ -1,0 +1,274 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/node\/271?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/node\/article"
+        },
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/field_banner": [
+            {
+                "href": ""
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/field_image": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_E5gHCI.png",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/commodo-damnum-modo-praesent.?_format=hal_json",
+                "lang": "en"
+            },
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/incassum-iriure-tum-ulciscor-voco.?_format=hal_json",
+                "lang": "en"
+            },
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/commodo-damnum-modo-praesent.?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 271
+        }
+    ],
+    "uuid": [
+        {
+            "value": "db05e5e1-e452-4851-85bd-b90c3e97ee5c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-15T16:23:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/field_banner": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/paragraph\/banner"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6dfc12cb-bca9-4d90-8909-afc7fa0b7539"
+                    }
+                ],
+                "target_revision_id": "118"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_E5gHCI.png"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "3c2a4227-0f29-402d-94bc-332cf16128f0"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/commodo-damnum-modo-praesent.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "bdbcc35b-9e54-41e6-8161-5a630939f1fc"
+                    }
+                ],
+                "lang": "en"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/incassum-iriure-tum-ulciscor-voco.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "499dcb0d-dd47-466a-82a1-9580b57b889f"
+                    }
+                ],
+                "lang": "en"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/commodo-damnum-modo-praesent.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "bdbcc35b-9e54-41e6-8161-5a630939f1fc"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Abico Luctus",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-15T16:23:40+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-15T16:23:41+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Aliquam brevitas feugiat humo ludus tum. Comis commoveo dolore esca genitus nobis proprius similis torqueo. Aliquip bene duis exputo ibidem iusto oppeto scisco tation. Aliquip dolus exputo feugiat genitus gravis melior saepius.\n\nCommodo elit luctus. In mos occuro oppeto tum. Consequat erat mauris odio refoveo voco. Antehabeo caecus camur damnum ea gilvus interdico metuo meus validus. Conventio eros gravis interdico minim nulla olim pecus refero virtus. Gravis ille neque singularis typicus uxor. Caecus exerci gilvus jugis mauris nibh nutus ulciscor. Blandit damnum lucidus nostrud paulatim secundum singularis sudo vindico wisi.\n\nAppellatio ea huic nibh populus saluto. Consectetuer eros macto populus. Autem caecus et fere nunc odio ratis sed vulputate zelus. Brevitas conventio fere modo neo qui tation.\n\nDefui oppeto persto quibus quis usitas. Caecus camur defui odio populus quidne tamen ulciscor valde ymo. Abbas appellatio bene dignissim fere iusto nisl oppeto suscipit verto. Acsi ad antehabeo ex importunus patria. Aliquam dolus duis eros illum praesent roto. Consequat feugiat quadrum vereor.\n\nDecet defui dolor facilisi haero in nibh nunc sagaciter utrum. Metuo persto quidem sagaciter. Haero incassum quia refoveo typicus. Euismod quis singularis tego validus. Accumsan ea interdico nunc praemitto ut veniam zelus. Aptent in iriure patria paulatim.\n\nAliquip lobortis pala pertineo. Eros facilisis hendrerit olim. Acsi appellatio causa dolore ille lenis olim quidne rusticus virtus. Abdo conventio damnum esca euismod in interdico premo ratis tincidunt. Ea inhibeo iriure virtus wisi. Aliquam quadrum similis suscipere. Acsi aliquam aptent gilvus sino sudo typicus zelus. Aliquam hos tincidunt. Duis inhibeo iusto laoreet mauris nobis secundum usitas ut voco.\n\nAppellatio dolus eros euismod luctus macto obruo quibus vulpes. Importunus obruo paulatim sino. Commoveo decet fere iriure nunc utinam vindico. Accumsan appellatio causa exputo illum letalis torqueo. Facilisi incassum melior oppeto secundum wisi. Exerci olim persto populus scisco suscipere tego vindico. Dolor elit importunus ulciscor. Molior os sudo typicus.\n\nAptent nimis nobis oppeto os patria rusticus uxor zelus. Capto cogo duis hendrerit iustum luctus pala singularis tego ullamcorper. Cui esse et eum illum ludus occuro secundum valde. Dolus et in lobortis mos pertineo praemitto sudo turpis. Ad dolus illum inhibeo macto praemitto. Eros esca luctus os quibus roto si singularis te. Gravis quia saluto. Defui letalis mos premo refero.\n\nCaecus distineo fere feugiat lenis modo neque os secundum volutpat. At conventio occuro refero saepius sed ulciscor valetudo virtus vulpes. Importunus nisl nutus obruo utinam utrum verto wisi. Dignissim eligo eum haero ibidem lobortis nibh. Feugiat probo saepius vereor.\n\nConventio dolus ea illum iusto jugis meus singularis vero voco. Abbas esca lenis populus saepius sagaciter secundum. Accumsan bene camur comis enim esca gilvus ibidem nibh quadrum.\n\nConventio duis facilisis imputo neque nimis praesent premo tincidunt. Cogo esse facilisi gravis hos ratis turpis vulputate. Commodo dignissim immitto imputo letalis pagus rusticus sed vulputate.\n\nLaoreet nostrud quis scisco vel. Humo ludus nobis paulatim. Augue capto defui esca fere imputo quis te validus vero. Distineo importunus jus. Aliquam letalis usitas uxor.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Aliquam brevitas feugiat humo ludus tum. Comis commoveo dolore esca genitus nobis proprius similis torqueo. Aliquip bene duis exputo ibidem iusto oppeto scisco tation. Aliquip dolus exputo feugiat genitus gravis melior saepius.<\/p>\n<p>Commodo elit luctus. In mos occuro oppeto tum. Consequat erat mauris odio refoveo voco. Antehabeo caecus camur damnum ea gilvus interdico metuo meus validus. Conventio eros gravis interdico minim nulla olim pecus refero virtus. Gravis ille neque singularis typicus uxor. Caecus exerci gilvus jugis mauris nibh nutus ulciscor. Blandit damnum lucidus nostrud paulatim secundum singularis sudo vindico wisi.<\/p>\n<p>Appellatio ea huic nibh populus saluto. Consectetuer eros macto populus. Autem caecus et fere nunc odio ratis sed vulputate zelus. Brevitas conventio fere modo neo qui tation.<\/p>\n<p>Defui oppeto persto quibus quis usitas. Caecus camur defui odio populus quidne tamen ulciscor valde ymo. Abbas appellatio bene dignissim fere iusto nisl oppeto suscipit verto. Acsi ad antehabeo ex importunus patria. Aliquam dolus duis eros illum praesent roto. Consequat feugiat quadrum vereor.<\/p>\n<p>Decet defui dolor facilisi haero in nibh nunc sagaciter utrum. Metuo persto quidem sagaciter. Haero incassum quia refoveo typicus. Euismod quis singularis tego validus. Accumsan ea interdico nunc praemitto ut veniam zelus. Aptent in iriure patria paulatim.<\/p>\n<p>Aliquip lobortis pala pertineo. Eros facilisis hendrerit olim. Acsi appellatio causa dolore ille lenis olim quidne rusticus virtus. Abdo conventio damnum esca euismod in interdico premo ratis tincidunt. Ea inhibeo iriure virtus wisi. Aliquam quadrum similis suscipere. Acsi aliquam aptent gilvus sino sudo typicus zelus. Aliquam hos tincidunt. Duis inhibeo iusto laoreet mauris nobis secundum usitas ut voco.<\/p>\n<p>Appellatio dolus eros euismod luctus macto obruo quibus vulpes. Importunus obruo paulatim sino. Commoveo decet fere iriure nunc utinam vindico. Accumsan appellatio causa exputo illum letalis torqueo. Facilisi incassum melior oppeto secundum wisi. Exerci olim persto populus scisco suscipere tego vindico. Dolor elit importunus ulciscor. Molior os sudo typicus.<\/p>\n<p>Aptent nimis nobis oppeto os patria rusticus uxor zelus. Capto cogo duis hendrerit iustum luctus pala singularis tego ullamcorper. Cui esse et eum illum ludus occuro secundum valde. Dolus et in lobortis mos pertineo praemitto sudo turpis. Ad dolus illum inhibeo macto praemitto. Eros esca luctus os quibus roto si singularis te. Gravis quia saluto. Defui letalis mos premo refero.<\/p>\n<p>Caecus distineo fere feugiat lenis modo neque os secundum volutpat. At conventio occuro refero saepius sed ulciscor valetudo virtus vulpes. Importunus nisl nutus obruo utinam utrum verto wisi. Dignissim eligo eum haero ibidem lobortis nibh. Feugiat probo saepius vereor.<\/p>\n<p>Conventio dolus ea illum iusto jugis meus singularis vero voco. Abbas esca lenis populus saepius sagaciter secundum. Accumsan bene camur comis enim esca gilvus ibidem nibh quadrum.<\/p>\n<p>Conventio duis facilisis imputo neque nimis praesent premo tincidunt. Cogo esse facilisi gravis hos ratis turpis vulputate. Commodo dignissim immitto imputo letalis pagus rusticus sed vulputate.<\/p>\n<p>Laoreet nostrud quis scisco vel. Humo ludus nobis paulatim. Augue capto defui esca fere imputo quis te validus vero. Distineo importunus jus. Aliquam letalis usitas uxor.<\/p>\n",
+            "summary": "Aliquam brevitas feugiat humo ludus tum. Comis commoveo dolore esca genitus nobis proprius similis torqueo. Aliquip bene duis exputo ibidem iusto oppeto scisco tation. Aliquip dolus exputo feugiat genitus gravis melior saepius.\n\nCommodo elit luctus. In mos occuro oppeto tum. Consequat erat mauris odio refoveo voco. Antehabeo caecus camur damnum ea gilvus interdico metuo meus validus. Conventio eros gravis interdico minim nulla olim pecus refero virtus. Gravis ille neque singularis typicus uxor. Caecus exerci gilvus jugis mauris nibh nutus ulciscor. Blandit damnum lucidus nostrud paulatim secundum singularis sudo vindico wisi.\n\nAppellatio ea huic nibh populus saluto. Consectetuer eros macto populus. Autem caecus et fere nunc odio ratis sed vulputate zelus. Brevitas conventio fere modo neo qui tation.\n\nDefui oppeto persto quibus quis usitas. Caecus camur defui odio populus quidne tamen ulciscor valde ymo. Abbas appellatio bene dignissim fere iusto nisl oppeto suscipit verto. Acsi ad antehabeo ex importunus patria. Aliquam dolus duis eros illum praesent roto. Consequat feugiat quadrum vereor.\n\nDecet defui dolor facilisi haero in nibh nunc sagaciter utrum. Metuo persto quidem sagaciter. Haero incassum quia refoveo typicus. Euismod quis singularis tego validus. Accumsan ea interdico nunc praemitto ut veniam zelus. Aptent in iriure patria paulatim.\n\nAliquip lobortis pala pertineo. Eros facilisis hendrerit olim. Acsi appellatio causa dolore ille lenis olim quidne rusticus virtus. Abdo conventio damnum esca euismod in interdico premo ratis tincidunt. Ea inhibeo iriure virtus wisi. Aliquam quadrum similis suscipere. Acsi aliquam aptent gilvus sino sudo typicus zelus. Aliquam hos tincidunt. Duis inhibeo iusto laoreet mauris nobis secundum usitas ut voco.\n\nAppellatio dolus eros euismod luctus macto obruo quibus vulpes. Importunus obruo paulatim sino. Commoveo decet fere iriure nunc utinam vindico. Accumsan appellatio causa exputo illum letalis torqueo. Facilisi incassum melior oppeto secundum wisi. Exerci olim persto populus scisco suscipere tego vindico. Dolor elit importunus ulciscor. Molior os sudo typicus.\n\nAptent nimis nobis oppeto os patria rusticus uxor zelus. Capto cogo duis hendrerit iustum luctus pala singularis tego ullamcorper. Cui esse et eum illum ludus occuro secundum valde. Dolus et in lobortis mos pertineo praemitto sudo turpis. Ad dolus illum inhibeo macto praemitto. Eros esca luctus os quibus roto si singularis te. Gravis quia saluto. Defui letalis mos premo refero.\n\nCaecus distineo fere feugiat lenis modo neque os secundum volutpat. At conventio occuro refero saepius sed ulciscor valetudo virtus vulpes. Importunus nisl nutus obruo utinam utrum verto wisi. Dignissim eligo eum haero ibidem lobortis nibh. Feugiat probo saepius vereor.\n\nConventio dolus ea illum iusto jugis meus singularis vero voco. Abbas esca lenis populus saepius sagaciter secundum. Accumsan bene camur comis enim esca gilvus ibidem nibh quadrum.\n\nConventio duis facilisis imputo neque nimis praesent premo tincidunt. Cogo esse facilisi gravis hos ratis turpis vulputate. Commodo dignissim immitto imputo letalis pagus rusticus sed vulputate.\n\nLaoreet nostrud quis scisco vel. Humo ludus nobis paulatim. Augue capto defui esca fere imputo quis te validus vero. Distineo importunus jus. Aliquam letalis usitas uxor.\n\n",
+            "lang": "en"
+        }
+    ],
+    "comment": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1684167821,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "en"
+        }
+    ]
+}

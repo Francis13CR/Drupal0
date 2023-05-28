@@ -1,0 +1,196 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/node\/118?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/node\/curso"
+        },
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/curso\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/curso\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/curso\/field_categoria": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/curso\/field_programa": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-05\/jfVzbnktRu.txt"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 118
+        }
+    ],
+    "uuid": [
+        {
+            "value": "79e0f520-407f-495a-8528-a39c84bc4c3c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "curso"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-06T04:32:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/curso\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/curso\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/curso\/field_categoria": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/tipo_de_curso"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "762051cd-6302-40e7-94d3-b57700aacc25"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/curso\/field_programa": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-05\/jfVzbnktRu.txt"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "819f26b9-a309-448e-91ce-b026a3b591ea"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Quia",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-05T06:04:37+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-06T04:32:44+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Brevitas commodo dolore nutus quadrum refero tamen. Dolore eu gemino. Defui dolus hendrerit humo jus letalis paratus torqueo. Diam ibidem quia refero rusticus suscipere tamen virtus vulpes ymo.\n\nAbluo esse genitus in iustum lucidus vindico vulputate. Autem in laoreet lenis plaga quidne. Camur nostrud veniam vicis. Antehabeo brevitas caecus lobortis minim saepius.\n\nDefui inhibeo luptatum occuro wisi. Abico defui fere iusto neo quadrum. Os torqueo turpis. Ludus minim molior pneum quis sudo suscipere veniam. Abbas neo suscipere tamen usitas veniam. Amet facilisi luptatum nisl refoveo sagaciter singularis vereor vulpes ymo.\n\nPersto pneum ratis tincidunt. Abico appellatio distineo enim fere ideo loquor nunc quia singularis. Aliquip humo ludus metuo modo nunc pertineo venio. Abico ideo illum immitto praemitto proprius tego. Abdo letalis valetudo. Abbas euismod genitus interdico iusto mauris metuo premo quibus sino. Decet hos iusto modo nisl tamen wisi. Consequat eligo eum suscipit venio. Causa imputo magna refoveo. Aliquip quidem secundum.\n\nCaecus enim nulla odio quidne tamen tego. Acsi exerci genitus hos ille in laoreet valetudo vero. Pneum refoveo tamen. Defui exerci facilisis huic molior pneum praesent quia uxor venio. Aliquam duis facilisi humo magna persto similis singularis velit. Abbas accumsan defui luctus. Amet consectetuer conventio luctus mos natu os pagus te. Conventio dignissim quibus suscipit vicis vindico.\n\nBene facilisi interdico iriure jumentum ludus odio secundum tincidunt veniam. Caecus distineo duis exputo gilvus populus sagaciter tego volutpat. Elit inhibeo ut. Aliquip illum tation turpis valetudo. Abico amet letalis quibus rusticus te. Abdo ad conventio decet elit esca interdico refero singularis sit. Abico exerci jumentum te ulciscor. Ad erat minim nulla.\n\nAbico huic odio quae qui quidne quis usitas. Eu in iriure macto quidem venio. Aliquip imputo tation vereor. Gravis sudo turpis. Damnum genitus luctus mos nutus odio quadrum sagaciter sino verto.\n\nCapto enim modo plaga roto. Dignissim dolor immitto minim molior vindico vulputate. Elit torqueo utinam utrum. Antehabeo capto eum hos lucidus probo. Qui quis volutpat. Decet dignissim eros feugiat jus occuro persto te. Ea iaceo tamen vindico. Aptent haero jus pneum singularis valetudo. Adipiscing blandit causa euismod hendrerit interdico roto typicus. Autem commoveo exerci loquor paratus quidne si wisi.\n\nCogo commoveo damnum esse hos premo ratis si venio vulpes. Defui in lobortis ludus populus turpis. Antehabeo luctus modo natu patria proprius singularis turpis ulciscor. Duis esca immitto quibus. Augue capto iriure nutus pertineo plaga quadrum quis saluto.\n\nDolor inhibeo modo nutus pertineo qui valde veniam. Defui erat eros eum immitto iriure melior patria validus vulputate. Caecus decet defui jumentum lenis pertineo quidne. Abigo acsi adipiscing bene eros esse exerci saepius voco.\n\nAntehabeo genitus haero luptatum pagus plaga roto ulciscor. Illum iustum luctus luptatum nisl sagaciter sit tego vel. Consectetuer ideo mauris melior pecus quidne secundum validus vel. Appellatio autem damnum genitus melior nunc torqueo veniam. Aliquip commodo facilisis gilvus hendrerit magna mauris paratus populus quae. Aliquam esse exerci haero oppeto tation. Enim erat esca ille neque nostrud ratis tum virtus ymo.\n\nDefui facilisi inhibeo suscipit ut valde vulputate. Fere laoreet qui torqueo venio wisi. Abluo nibh scisco turpis. Aliquam defui eligo facilisis lenis paratus pneum quidem usitas.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Brevitas commodo dolore nutus quadrum refero tamen. Dolore eu gemino. Defui dolus hendrerit humo jus letalis paratus torqueo. Diam ibidem quia refero rusticus suscipere tamen virtus vulpes ymo.<\/p>\n<p>Abluo esse genitus in iustum lucidus vindico vulputate. Autem in laoreet lenis plaga quidne. Camur nostrud veniam vicis. Antehabeo brevitas caecus lobortis minim saepius.<\/p>\n<p>Defui inhibeo luptatum occuro wisi. Abico defui fere iusto neo quadrum. Os torqueo turpis. Ludus minim molior pneum quis sudo suscipere veniam. Abbas neo suscipere tamen usitas veniam. Amet facilisi luptatum nisl refoveo sagaciter singularis vereor vulpes ymo.<\/p>\n<p>Persto pneum ratis tincidunt. Abico appellatio distineo enim fere ideo loquor nunc quia singularis. Aliquip humo ludus metuo modo nunc pertineo venio. Abico ideo illum immitto praemitto proprius tego. Abdo letalis valetudo. Abbas euismod genitus interdico iusto mauris metuo premo quibus sino. Decet hos iusto modo nisl tamen wisi. Consequat eligo eum suscipit venio. Causa imputo magna refoveo. Aliquip quidem secundum.<\/p>\n<p>Caecus enim nulla odio quidne tamen tego. Acsi exerci genitus hos ille in laoreet valetudo vero. Pneum refoveo tamen. Defui exerci facilisis huic molior pneum praesent quia uxor venio. Aliquam duis facilisi humo magna persto similis singularis velit. Abbas accumsan defui luctus. Amet consectetuer conventio luctus mos natu os pagus te. Conventio dignissim quibus suscipit vicis vindico.<\/p>\n<p>Bene facilisi interdico iriure jumentum ludus odio secundum tincidunt veniam. Caecus distineo duis exputo gilvus populus sagaciter tego volutpat. Elit inhibeo ut. Aliquip illum tation turpis valetudo. Abico amet letalis quibus rusticus te. Abdo ad conventio decet elit esca interdico refero singularis sit. Abico exerci jumentum te ulciscor. Ad erat minim nulla.<\/p>\n<p>Abico huic odio quae qui quidne quis usitas. Eu in iriure macto quidem venio. Aliquip imputo tation vereor. Gravis sudo turpis. Damnum genitus luctus mos nutus odio quadrum sagaciter sino verto.<\/p>\n<p>Capto enim modo plaga roto. Dignissim dolor immitto minim molior vindico vulputate. Elit torqueo utinam utrum. Antehabeo capto eum hos lucidus probo. Qui quis volutpat. Decet dignissim eros feugiat jus occuro persto te. Ea iaceo tamen vindico. Aptent haero jus pneum singularis valetudo. Adipiscing blandit causa euismod hendrerit interdico roto typicus. Autem commoveo exerci loquor paratus quidne si wisi.<\/p>\n<p>Cogo commoveo damnum esse hos premo ratis si venio vulpes. Defui in lobortis ludus populus turpis. Antehabeo luctus modo natu patria proprius singularis turpis ulciscor. Duis esca immitto quibus. Augue capto iriure nutus pertineo plaga quadrum quis saluto.<\/p>\n<p>Dolor inhibeo modo nutus pertineo qui valde veniam. Defui erat eros eum immitto iriure melior patria validus vulputate. Caecus decet defui jumentum lenis pertineo quidne. Abigo acsi adipiscing bene eros esse exerci saepius voco.<\/p>\n<p>Antehabeo genitus haero luptatum pagus plaga roto ulciscor. Illum iustum luctus luptatum nisl sagaciter sit tego vel. Consectetuer ideo mauris melior pecus quidne secundum validus vel. Appellatio autem damnum genitus melior nunc torqueo veniam. Aliquip commodo facilisis gilvus hendrerit magna mauris paratus populus quae. Aliquam esse exerci haero oppeto tation. Enim erat esca ille neque nostrud ratis tum virtus ymo.<\/p>\n<p>Defui facilisi inhibeo suscipit ut valde vulputate. Fere laoreet qui torqueo venio wisi. Abluo nibh scisco turpis. Aliquam defui eligo facilisis lenis paratus pneum quidem usitas.<\/p>\n",
+            "summary": "Brevitas commodo dolore nutus quadrum refero tamen. Dolore eu gemino. Defui dolus hendrerit humo jus letalis paratus torqueo. Diam ibidem quia refero rusticus suscipere tamen virtus vulpes ymo.\n\nAbluo esse genitus in iustum lucidus vindico vulputate. Autem in laoreet lenis plaga quidne. Camur nostrud veniam vicis. Antehabeo brevitas caecus lobortis minim saepius.\n\nDefui inhibeo luptatum occuro wisi. Abico defui fere iusto neo quadrum. Os torqueo turpis. Ludus minim molior pneum quis sudo suscipere veniam. Abbas neo suscipere tamen usitas veniam. Amet facilisi luptatum nisl refoveo sagaciter singularis vereor vulpes ymo.\n\nPersto pneum ratis tincidunt. Abico appellatio distineo enim fere ideo loquor nunc quia singularis. Aliquip humo ludus metuo modo nunc pertineo venio. Abico ideo illum immitto praemitto proprius tego. Abdo letalis valetudo. Abbas euismod genitus interdico iusto mauris metuo premo quibus sino. Decet hos iusto modo nisl tamen wisi. Consequat eligo eum suscipit venio. Causa imputo magna refoveo. Aliquip quidem secundum.\n\nCaecus enim nulla odio quidne tamen tego. Acsi exerci genitus hos ille in laoreet valetudo vero. Pneum refoveo tamen. Defui exerci facilisis huic molior pneum praesent quia uxor venio. Aliquam duis facilisi humo magna persto similis singularis velit. Abbas accumsan defui luctus. Amet consectetuer conventio luctus mos natu os pagus te. Conventio dignissim quibus suscipit vicis vindico.\n\nBene facilisi interdico iriure jumentum ludus odio secundum tincidunt veniam. Caecus distineo duis exputo gilvus populus sagaciter tego volutpat. Elit inhibeo ut. Aliquip illum tation turpis valetudo. Abico amet letalis quibus rusticus te. Abdo ad conventio decet elit esca interdico refero singularis sit. Abico exerci jumentum te ulciscor. Ad erat minim nulla.\n\nAbico huic odio quae qui quidne quis usitas. Eu in iriure macto quidem venio. Aliquip imputo tation vereor. Gravis sudo turpis. Damnum genitus luctus mos nutus odio quadrum sagaciter sino verto.\n\nCapto enim modo plaga roto. Dignissim dolor immitto minim molior vindico vulputate. Elit torqueo utinam utrum. Antehabeo capto eum hos lucidus probo. Qui quis volutpat. Decet dignissim eros feugiat jus occuro persto te. Ea iaceo tamen vindico. Aptent haero jus pneum singularis valetudo. Adipiscing blandit causa euismod hendrerit interdico roto typicus. Autem commoveo exerci loquor paratus quidne si wisi.\n\nCogo commoveo damnum esse hos premo ratis si venio vulpes. Defui in lobortis ludus populus turpis. Antehabeo luctus modo natu patria proprius singularis turpis ulciscor. Duis esca immitto quibus. Augue capto iriure nutus pertineo plaga quadrum quis saluto.\n\nDolor inhibeo modo nutus pertineo qui valde veniam. Defui erat eros eum immitto iriure melior patria validus vulputate. Caecus decet defui jumentum lenis pertineo quidne. Abigo acsi adipiscing bene eros esse exerci saepius voco.\n\nAntehabeo genitus haero luptatum pagus plaga roto ulciscor. Illum iustum luctus luptatum nisl sagaciter sit tego vel. Consectetuer ideo mauris melior pecus quidne secundum validus vel. Appellatio autem damnum genitus melior nunc torqueo veniam. Aliquip commodo facilisis gilvus hendrerit magna mauris paratus populus quae. Aliquam esse exerci haero oppeto tation. Enim erat esca ille neque nostrud ratis tum virtus ymo.\n\nDefui facilisi inhibeo suscipit ut valde vulputate. Fere laoreet qui torqueo venio wisi. Abluo nibh scisco turpis. Aliquam defui eligo facilisis lenis paratus pneum quidem usitas.\n\n",
+            "lang": "en"
+        }
+    ]
+}

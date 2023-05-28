@@ -1,0 +1,188 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/node\/29?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/node\/chefs"
+        },
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/chefs\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/chefs\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/0?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/chefs\/field_specialty": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 29
+        }
+    ],
+    "uuid": [
+        {
+            "value": "3b49ca14-0a8f-4be5-8d53-5b8acce749e3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "chefs"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-21T03:22:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/chefs\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c6417ea4-1bc5-4f51-80d5-fb53c38bdd70"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/chefs\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c6417ea4-1bc5-4f51-80d5-fb53c38bdd70"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/chefs\/field_specialty": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/cousine"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "54e58e32-0aed-4820-8d44-ca4d69d17cea"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Chefs - Quis",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-04-17T20:43:52+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-21T03:22:44+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Eros iustum premo ratis. Autem iriure nisl pneum valetudo verto vicis. Defui erat iaceo lenis paratus te. Conventio ille iriure letalis melior os verto zelus. Pecus scisco utrum venio. Abico elit nutus sed turpis uxor. Decet dolor esse huic illum nobis populus quidne utinam.\n\nAbdo ad facilisi vindico. Facilisi nibh scisco. Elit humo metuo nunc quidem. Dolor gilvus importunus jugis meus modo patria te vicis. Commodo hendrerit iusto odio pertineo refoveo singularis typicus velit volutpat. Appellatio comis esse laoreet odio saluto sed ullamcorper. Diam esca hos lobortis minim odio volutpat. Immitto quidne torqueo. Brevitas conventio diam imputo similis.\n\nErat euismod melior nibh probo virtus voco. Decet humo natu proprius quidem volutpat. Abdo ad brevitas elit enim facilisi in odio ulciscor zelus.\n\nCausa ille nisl nulla nutus quae quia sino tego zelus. Augue autem dolus esca iriure luctus meus populus tation. Abdo comis in nostrud nulla quia sit vero. Hendrerit hos incassum laoreet ymo zelus. Adipiscing aliquip lenis. Accumsan appellatio dignissim gemino interdico macto mauris si.\n\nCommodo immitto nimis premo rusticus sudo tincidunt. Dolus facilisi facilisis persto validus vicis vindico. Aptent jumentum ymo. Ad aliquip haero importunus letalis lobortis olim typicus validus vereor.\n\nDolore inhibeo nobis utrum. Abico eros ille iustum nostrud quidne roto utrum velit. Cogo facilisi iriure mauris natu. Commoveo dolor imputo neque quae quia uxor valde. Aliquip brevitas minim quadrum tamen. Decet modo validus.\n\nAbdo abluo distineo duis jugis. Bene ea valde volutpat. Causa incassum te ulciscor zelus. Diam fere jus modo populus tincidunt velit. Dignissim duis quibus.\n\nCausa dignissim et gemino olim sed singularis torqueo. At dolus lenis natu quadrum secundum venio verto. Cui defui eros modo neo paratus pertineo tego voco. Importunus ludus metuo refero. Accumsan elit imputo vel. Abico at decet interdico luptatum mauris nimis occuro sed usitas.\n\nCommoveo dolus erat illum quibus sed vindico. Eligo importunus quidem roto sino ulciscor. Cogo diam elit erat eros lucidus pecus tation venio.\n\nAcsi appellatio consectetuer importunus os patria. Ea genitus rusticus saluto suscipere vindico. Eligo minim qui tincidunt utrum vereor ymo. Aliquip ea gilvus melior scisco vel. Abluo amet erat ideo incassum luptatum neo oppeto suscipere validus. Acsi consectetuer lobortis nulla pala paratus sagaciter vicis virtus volutpat.\n\nBene damnum ideo iusto lenis paratus patria tincidunt. Abdo immitto lenis pertineo tincidunt. Lucidus nibh nostrud saepius saluto secundum. Abdo abigo autem eum hos jus. Aliquam esse illum qui. Appellatio commoveo dolore macto molior typicus. Caecus gravis iustum secundum.\n\nBlandit et gilvus inhibeo letalis sagaciter si typicus. Adipiscing aliquip autem brevitas lenis persto. Cogo dignissim duis gravis macto obruo praemitto quidne saepius si. Abbas eu luptatum nimis pneum rusticus sudo. Gilvus gravis ibidem imputo proprius quidem sino ullamcorper validus vindico. Esca ille letalis mos premo quidem ratis roto tamen.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Eros iustum premo ratis. Autem iriure nisl pneum valetudo verto vicis. Defui erat iaceo lenis paratus te. Conventio ille iriure letalis melior os verto zelus. Pecus scisco utrum venio. Abico elit nutus sed turpis uxor. Decet dolor esse huic illum nobis populus quidne utinam.<\/p>\n<p>Abdo ad facilisi vindico. Facilisi nibh scisco. Elit humo metuo nunc quidem. Dolor gilvus importunus jugis meus modo patria te vicis. Commodo hendrerit iusto odio pertineo refoveo singularis typicus velit volutpat. Appellatio comis esse laoreet odio saluto sed ullamcorper. Diam esca hos lobortis minim odio volutpat. Immitto quidne torqueo. Brevitas conventio diam imputo similis.<\/p>\n<p>Erat euismod melior nibh probo virtus voco. Decet humo natu proprius quidem volutpat. Abdo ad brevitas elit enim facilisi in odio ulciscor zelus.<\/p>\n<p>Causa ille nisl nulla nutus quae quia sino tego zelus. Augue autem dolus esca iriure luctus meus populus tation. Abdo comis in nostrud nulla quia sit vero. Hendrerit hos incassum laoreet ymo zelus. Adipiscing aliquip lenis. Accumsan appellatio dignissim gemino interdico macto mauris si.<\/p>\n<p>Commodo immitto nimis premo rusticus sudo tincidunt. Dolus facilisi facilisis persto validus vicis vindico. Aptent jumentum ymo. Ad aliquip haero importunus letalis lobortis olim typicus validus vereor.<\/p>\n<p>Dolore inhibeo nobis utrum. Abico eros ille iustum nostrud quidne roto utrum velit. Cogo facilisi iriure mauris natu. Commoveo dolor imputo neque quae quia uxor valde. Aliquip brevitas minim quadrum tamen. Decet modo validus.<\/p>\n<p>Abdo abluo distineo duis jugis. Bene ea valde volutpat. Causa incassum te ulciscor zelus. Diam fere jus modo populus tincidunt velit. Dignissim duis quibus.<\/p>\n<p>Causa dignissim et gemino olim sed singularis torqueo. At dolus lenis natu quadrum secundum venio verto. Cui defui eros modo neo paratus pertineo tego voco. Importunus ludus metuo refero. Accumsan elit imputo vel. Abico at decet interdico luptatum mauris nimis occuro sed usitas.<\/p>\n<p>Commoveo dolus erat illum quibus sed vindico. Eligo importunus quidem roto sino ulciscor. Cogo diam elit erat eros lucidus pecus tation venio.<\/p>\n<p>Acsi appellatio consectetuer importunus os patria. Ea genitus rusticus saluto suscipere vindico. Eligo minim qui tincidunt utrum vereor ymo. Aliquip ea gilvus melior scisco vel. Abluo amet erat ideo incassum luptatum neo oppeto suscipere validus. Acsi consectetuer lobortis nulla pala paratus sagaciter vicis virtus volutpat.<\/p>\n<p>Bene damnum ideo iusto lenis paratus patria tincidunt. Abdo immitto lenis pertineo tincidunt. Lucidus nibh nostrud saepius saluto secundum. Abdo abigo autem eum hos jus. Aliquam esse illum qui. Appellatio commoveo dolore macto molior typicus. Caecus gravis iustum secundum.<\/p>\n<p>Blandit et gilvus inhibeo letalis sagaciter si typicus. Adipiscing aliquip autem brevitas lenis persto. Cogo dignissim duis gravis macto obruo praemitto quidne saepius si. Abbas eu luptatum nimis pneum rusticus sudo. Gilvus gravis ibidem imputo proprius quidem sino ullamcorper validus vindico. Esca ille letalis mos premo quidem ratis roto tamen.<\/p>\n",
+            "summary": "Eros iustum premo ratis. Autem iriure nisl pneum valetudo verto vicis. Defui erat iaceo lenis paratus te. Conventio ille iriure letalis melior os verto zelus. Pecus scisco utrum venio. Abico elit nutus sed turpis uxor. Decet dolor esse huic illum nobis populus quidne utinam.\n\nAbdo ad facilisi vindico. Facilisi nibh scisco. Elit humo metuo nunc quidem. Dolor gilvus importunus jugis meus modo patria te vicis. Commodo hendrerit iusto odio pertineo refoveo singularis typicus velit volutpat. Appellatio comis esse laoreet odio saluto sed ullamcorper. Diam esca hos lobortis minim odio volutpat. Immitto quidne torqueo. Brevitas conventio diam imputo similis.\n\nErat euismod melior nibh probo virtus voco. Decet humo natu proprius quidem volutpat. Abdo ad brevitas elit enim facilisi in odio ulciscor zelus.\n\nCausa ille nisl nulla nutus quae quia sino tego zelus. Augue autem dolus esca iriure luctus meus populus tation. Abdo comis in nostrud nulla quia sit vero. Hendrerit hos incassum laoreet ymo zelus. Adipiscing aliquip lenis. Accumsan appellatio dignissim gemino interdico macto mauris si.\n\nCommodo immitto nimis premo rusticus sudo tincidunt. Dolus facilisi facilisis persto validus vicis vindico. Aptent jumentum ymo. Ad aliquip haero importunus letalis lobortis olim typicus validus vereor.\n\nDolore inhibeo nobis utrum. Abico eros ille iustum nostrud quidne roto utrum velit. Cogo facilisi iriure mauris natu. Commoveo dolor imputo neque quae quia uxor valde. Aliquip brevitas minim quadrum tamen. Decet modo validus.\n\nAbdo abluo distineo duis jugis. Bene ea valde volutpat. Causa incassum te ulciscor zelus. Diam fere jus modo populus tincidunt velit. Dignissim duis quibus.\n\nCausa dignissim et gemino olim sed singularis torqueo. At dolus lenis natu quadrum secundum venio verto. Cui defui eros modo neo paratus pertineo tego voco. Importunus ludus metuo refero. Accumsan elit imputo vel. Abico at decet interdico luptatum mauris nimis occuro sed usitas.\n\nCommoveo dolus erat illum quibus sed vindico. Eligo importunus quidem roto sino ulciscor. Cogo diam elit erat eros lucidus pecus tation venio.\n\nAcsi appellatio consectetuer importunus os patria. Ea genitus rusticus saluto suscipere vindico. Eligo minim qui tincidunt utrum vereor ymo. Aliquip ea gilvus melior scisco vel. Abluo amet erat ideo incassum luptatum neo oppeto suscipere validus. Acsi consectetuer lobortis nulla pala paratus sagaciter vicis virtus volutpat.\n\nBene damnum ideo iusto lenis paratus patria tincidunt. Abdo immitto lenis pertineo tincidunt. Lucidus nibh nostrud saepius saluto secundum. Abdo abigo autem eum hos jus. Aliquam esse illum qui. Appellatio commoveo dolore macto molior typicus. Caecus gravis iustum secundum.\n\nBlandit et gilvus inhibeo letalis sagaciter si typicus. Adipiscing aliquip autem brevitas lenis persto. Cogo dignissim duis gravis macto obruo praemitto quidne saepius si. Abbas eu luptatum nimis pneum rusticus sudo. Gilvus gravis ibidem imputo proprius quidem sino ullamcorper validus vindico. Esca ille letalis mos premo quidem ratis roto tamen.\n\n",
+            "lang": "en"
+        }
+    ],
+    "field_biography": [
+        {
+            "value": "Cui occuro oppeto pecus.",
+            "format": "plain_text",
+            "processed": "<p>Cui occuro oppeto pecus.<\/p>\n"
+        }
+    ],
+    "field_name": [
+        {
+            "value": "Importunus imputo tego. Abbas eu ex iaceo roto. Accumsan ad aliquam aptent defui dolore ideo minim natu plaga. Illum minim venio vindico. Diam jus metuo nulla. Ea fere nimis turpis utinam utrum zelus. Augue brevitas consequat interdico olim quidem refero ",
+            "format": "plain_text",
+            "processed": "<p>Importunus imputo tego. Abbas eu ex iaceo roto. Accumsan ad aliquam aptent defui dolore ideo minim natu plaga. Illum minim venio vindico. Diam jus metuo nulla. Ea fere nimis turpis utinam utrum zelus. Augue brevitas consequat interdico olim quidem refero<\/p>\n"
+        }
+    ]
+}
