@@ -1,0 +1,15 @@
+uuid: 4c4ee8c4-02e8-4900-89ba-a44bb9cb965b
+langcode: en
+status: true
+dependencies: {  }
+name: 760_x_420
+label: '760 x 420'
+effects:
+  de33d88c-a2d7-4c28-b0b7-c24692fafa8c:
+    uuid: de33d88c-a2d7-4c28-b0b7-c24692fafa8c
+    id: image_scale
+    weight: 1
+    data:
+      width: 760
+      height: 420
+      upscale: true

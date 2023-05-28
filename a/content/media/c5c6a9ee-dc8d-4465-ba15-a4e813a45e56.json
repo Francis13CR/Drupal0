@@ -1,0 +1,184 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/camur-capto-comis-consequat-in-jumentum-zelus.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/media\/portada_libro"
+        },
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/portada_libro\/revision_user": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/portada_libro\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/portada_libro\/thumbnail": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_yBbVEw.jpg",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/portada_libro\/field_media_image_1": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_yBbVEw.jpg",
+                "lang": "en"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 8
+        }
+    ],
+    "uuid": [
+        {
+            "value": "c5c6a9ee-dc8d-4465-ba15-a4e813a45e56"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "portada_libro"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-28T16:54:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/portada_libro\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c6417ea4-1bc5-4f51-80d5-fb53c38bdd70"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/portada_libro\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/portada_libro\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_yBbVEw.jpg"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "336022ea-247e-4db0-a1ca-9c41829882ae"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/portada_libro\/field_media_image_1": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_yBbVEw.jpg"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "336022ea-247e-4db0-a1ca-9c41829882ae"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Iusto nobis os sed sudo voco ymo. Duis meus nulla virtus. Aliquip iaceo sit. Esca gemino lucidus paratus refero tego velit venio vero. Dolor letalis proprius. Quae scisco utinam velit. Defui erat esca inhibeo molior neo nutus praesent roto venio. Roto tincidunt utinam. Dolus minim pala. Aptent commodo esse nutus. Elit exerci facilisis laoreet lenis metuo pala.\n\nAdipiscing ex imputo iustum nibh pecus sed tincidunt vindico vulputate. Ad elit esse exerci importunus meus sagaciter si tego utrum. Ad commodo minim molior tation vulpes.\n\nAd distineo dolor esse gemino inhibeo roto saepius veniam wisi. Eum ibidem paratus usitas utrum. Antehabeo causa eligo macto odio quadrum quis wisi zelus.\n\nAliquam appellatio hendrerit luctus sit. Bene minim nobis quae sagaciter sit. Comis luptatum veniam. Blandit dignissim in laoreet luptatum proprius.\n\nAugue causa wisi. Decet eum humo luptatum modo nostrud proprius. Abico quia tincidunt vicis. Consectetuer eligo et ludus pertineo scisco tego wisi. Illum jugis odio usitas valde. Decet eligo incassum sudo. Genitus iriure occuro praesent refero sudo. Abbas dignissim haero mauris quadrum quibus. Duis eu magna odio populus vulpes.\n\nAbigo dignissim eu gemino pecus quadrum saluto suscipit volutpat zelus. Capto defui euismod nulla quae. Abdo adipiscing consectetuer incassum nisl occuro oppeto. Amet brevitas causa ex proprius roto wisi. Brevitas commoveo esca jugis magna persto refero. Abdo eros haero hendrerit macto metuo paratus populus tamen.\n\nComis eu fere neque proprius. Commodo distineo iustum patria pneum sudo. Amet brevitas defui luctus refero vulputate. Amet blandit damnum iustum vereor. Acsi interdico molior pertineo. Abico eu exputo melior pecus voco. Dolus ea esse iaceo nostrud probo singularis tamen tum ullamcorper. Plaga quae sino vel.\n\nEx jugis ludus sudo turpis. Brevitas camur ex iustum meus. Aliquip dolore eu incassum iustum proprius quidne. Abluo brevitas elit erat typicus utrum velit. Facilisis illum jugis laoreet odio utrum. Facilisi os quia.\n\nEnim metuo nimis obruo odio paulatim sudo venio. Eu humo saluto suscipere ullamcorper. Camur esse facilisi loquor pneum scisco verto. Cui esca nunc. Caecus dolore et exerci humo quia si. Antehabeo humo nobis pala tum. Antehabeo caecus comis tincidunt. Iriure quia voco. Distineo gemino nibh. Iriure luptatum suscipere valde volutpat. Ea immitto luptatum veniam zelus. Esse luptatum meus.\n\nCommoveo fere gemino luctus melior neque premo sit vicis. Autem erat esca iriure iustum macto singularis. Abigo at cui feugiat ille obruo. At feugiat iriure lobortis nunc odio scisco veniam venio wisi. Illum quae saluto typicus. Huic pagus quidem similis vindico voco wisi. Appellatio conventio decet importunus luctus magna nutus odio praemitto ullamcorper.\n\nAliquip dignissim eum huic neque paulatim quae secundum si vindico. Caecus causa pneum. Commodo conventio damnum defui diam erat. Hos quidne sit torqueo. Aliquip metuo ullamcorper volutpat. Abdo aptent commoveo ideo pertineo si typicus. Consequat decet ludus nibh oppeto probo vindico. Adipiscing fere gravis metuo mos natu quis.\n\nAdipiscing augue camur distineo gemino macto nostrud pala suscipit valde. Hendrerit laoreet loquor neo patria quibus sed typicus ymo. Abbas mauris mos nimis pagus uxor. Abdo aliquam appellatio damnum dolore exerci torqueo turpis zelus.\n\n"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "hiswucrarucavipreprububruclethocuvuphahauobravodobretrorudratruwidostouavacushishipopredichutivasaswuslewabotrethithawrososechamoslimumaseshenininodafricrecharagoswuthubrithaphilepriwuwrinostac",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-01-24T21:16:57+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-28T16:55:18+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/camur-capto-comis-consequat-in-jumentum-zelus.",
+            "pid": 12,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ]
+}

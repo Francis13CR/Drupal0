@@ -1,0 +1,174 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/node\/353?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/node\/libro"
+        },
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/field_portada_libro": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/camur-capto-comis-consequat-in-jumentum-zelus.?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 353
+        }
+    ],
+    "uuid": [
+        {
+            "value": "376ea3c0-4599-4b25-8deb-1d073beea8d1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "libro"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-28T16:59:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/field_portada_libro": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/camur-capto-comis-consequat-in-jumentum-zelus.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/media\/portada_libro"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c5c6a9ee-dc8d-4465-ba15-a4e813a45e56"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Gravis Quis Tation",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-26T03:11:26+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-28T16:59:19+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Accumsan amet valde. Incassum macto pagus paulatim si. Augue cogo comis conventio ex hendrerit meus quidne. Gilvus nutus pertineo tation. Brevitas duis facilisis feugiat mauris nisl patria saepius te. Ad appellatio diam erat et facilisi genitus nunc os vel. Esse eum gravis imputo natu nunc quadrum tum venio. Letalis lobortis scisco.\n\nAbluo aliquam dolore melior paulatim secundum tum. In laoreet lucidus. Conventio facilisi iaceo pecus pertineo populus sudo ulciscor. Camur capto macto. Comis conventio dolore ibidem nunc roto uxor. Caecus consectetuer ibidem lucidus nutus olim quidem singularis verto.\n\nAntehabeo damnum facilisi pneum populus. Ex gravis hos magna occuro. Commodo eu exputo sino te. Ad eros letalis pala paulatim praemitto quae qui vero. Molior quidne validus. Commoveo ideo nimis quia quibus sudo usitas valde vero.\n\nBene caecus mauris melior. Nutus pertineo refoveo tation. Erat exerci vereor. Amet esca imputo lobortis mos tamen typicus. Aliquam dignissim feugiat huic ludus. Dolore huic interdico nibh praemitto. Conventio defui enim eum luctus neo plaga probo quae vicis.\n\nAmet blandit commodo exerci praesent tincidunt. Abluo damnum natu pertineo rusticus. Aliquip caecus decet dolor eu ideo torqueo vereor zelus. Bene facilisi haero importunus melior nostrud saluto singularis utinam. Acsi ad blandit consectetuer distineo et fere illum ludus occuro.\n\nComis erat huic secundum. Cogo duis esca exerci nobis nutus quadrum rusticus validus. Appellatio cogo metuo saepius singularis ut wisi. Aliquip ludus roto. Gravis incassum os premo proprius qui sed tamen ut. Acsi eu genitus lucidus neo virtus. Blandit enim facilisi laoreet metuo quidne similis tation turpis.\n\nAdipiscing antehabeo ibidem importunus obruo pneum si utrum vel. Abico occuro pneum sagaciter si turpis ulciscor ullamcorper ut vero. Melior nostrud pagus rusticus sed sino vel vindico voco ymo.\n\nAbigo aliquam at brevitas commodo commoveo iustum pala valetudo voco. Ad capto ea eligo iusto praemitto quibus sed. Abdo capto imputo nutus pala tamen utinam. Bene fere lenis neque nutus olim probo.\n\nAcsi brevitas commodo defui obruo patria plaga torqueo vereor. Decet praemitto suscipere. Jus nunc paratus utinam. Abigo commoveo eros premo secundum ullamcorper vulpes.\n\nAbbas accumsan antehabeo ea elit inhibeo premo utrum. Comis dolor dolus facilisi facilisis sit valde. Abigo causa nostrud. Cogo mauris nutus pagus. Caecus commoveo esse incassum os quidne te tincidunt. Gilvus luctus magna modo. Capto commodo gravis loquor ulciscor. Bene commodo dolore exputo humo jumentum meus olim plaga refoveo.\n\nAdipiscing cogo decet imputo suscipere torqueo utrum vero. Facilisis hendrerit minim nutus typicus utrum veniam. Consectetuer consequat quae quia valetudo vel voco. Distineo facilisi nutus pala valde volutpat.\n\nAliquam comis conventio esse mos valetudo. Antehabeo aptent erat luptatum ut. Abigo eros eu immitto incassum lenis valde. Ideo macto pecus pertineo tego wisi. Bene gilvus haero inhibeo quia. Brevitas comis enim eu nutus premo saluto turpis vero. Duis esse eum importunus incassum lobortis ludus magna odio os. Decet obruo vereor. Facilisi sit tamen. Luctus rusticus vicis vindico.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Accumsan amet valde. Incassum macto pagus paulatim si. Augue cogo comis conventio ex hendrerit meus quidne. Gilvus nutus pertineo tation. Brevitas duis facilisis feugiat mauris nisl patria saepius te. Ad appellatio diam erat et facilisi genitus nunc os vel. Esse eum gravis imputo natu nunc quadrum tum venio. Letalis lobortis scisco.<\/p>\n<p>Abluo aliquam dolore melior paulatim secundum tum. In laoreet lucidus. Conventio facilisi iaceo pecus pertineo populus sudo ulciscor. Camur capto macto. Comis conventio dolore ibidem nunc roto uxor. Caecus consectetuer ibidem lucidus nutus olim quidem singularis verto.<\/p>\n<p>Antehabeo damnum facilisi pneum populus. Ex gravis hos magna occuro. Commodo eu exputo sino te. Ad eros letalis pala paulatim praemitto quae qui vero. Molior quidne validus. Commoveo ideo nimis quia quibus sudo usitas valde vero.<\/p>\n<p>Bene caecus mauris melior. Nutus pertineo refoveo tation. Erat exerci vereor. Amet esca imputo lobortis mos tamen typicus. Aliquam dignissim feugiat huic ludus. Dolore huic interdico nibh praemitto. Conventio defui enim eum luctus neo plaga probo quae vicis.<\/p>\n<p>Amet blandit commodo exerci praesent tincidunt. Abluo damnum natu pertineo rusticus. Aliquip caecus decet dolor eu ideo torqueo vereor zelus. Bene facilisi haero importunus melior nostrud saluto singularis utinam. Acsi ad blandit consectetuer distineo et fere illum ludus occuro.<\/p>\n<p>Comis erat huic secundum. Cogo duis esca exerci nobis nutus quadrum rusticus validus. Appellatio cogo metuo saepius singularis ut wisi. Aliquip ludus roto. Gravis incassum os premo proprius qui sed tamen ut. Acsi eu genitus lucidus neo virtus. Blandit enim facilisi laoreet metuo quidne similis tation turpis.<\/p>\n<p>Adipiscing antehabeo ibidem importunus obruo pneum si utrum vel. Abico occuro pneum sagaciter si turpis ulciscor ullamcorper ut vero. Melior nostrud pagus rusticus sed sino vel vindico voco ymo.<\/p>\n<p>Abigo aliquam at brevitas commodo commoveo iustum pala valetudo voco. Ad capto ea eligo iusto praemitto quibus sed. Abdo capto imputo nutus pala tamen utinam. Bene fere lenis neque nutus olim probo.<\/p>\n<p>Acsi brevitas commodo defui obruo patria plaga torqueo vereor. Decet praemitto suscipere. Jus nunc paratus utinam. Abigo commoveo eros premo secundum ullamcorper vulpes.<\/p>\n<p>Abbas accumsan antehabeo ea elit inhibeo premo utrum. Comis dolor dolus facilisi facilisis sit valde. Abigo causa nostrud. Cogo mauris nutus pagus. Caecus commoveo esse incassum os quidne te tincidunt. Gilvus luctus magna modo. Capto commodo gravis loquor ulciscor. Bene commodo dolore exputo humo jumentum meus olim plaga refoveo.<\/p>\n<p>Adipiscing cogo decet imputo suscipere torqueo utrum vero. Facilisis hendrerit minim nutus typicus utrum veniam. Consectetuer consequat quae quia valetudo vel voco. Distineo facilisi nutus pala valde volutpat.<\/p>\n<p>Aliquam comis conventio esse mos valetudo. Antehabeo aptent erat luptatum ut. Abigo eros eu immitto incassum lenis valde. Ideo macto pecus pertineo tego wisi. Bene gilvus haero inhibeo quia. Brevitas comis enim eu nutus premo saluto turpis vero. Duis esse eum importunus incassum lobortis ludus magna odio os. Decet obruo vereor. Facilisi sit tamen. Luctus rusticus vicis vindico.<\/p>\n",
+            "summary": "Accumsan amet valde. Incassum macto pagus paulatim si. Augue cogo comis conventio ex hendrerit meus quidne. Gilvus nutus pertineo tation. Brevitas duis facilisis feugiat mauris nisl patria saepius te. Ad appellatio diam erat et facilisi genitus nunc os vel. Esse eum gravis imputo natu nunc quadrum tum venio. Letalis lobortis scisco.\n\nAbluo aliquam dolore melior paulatim secundum tum. In laoreet lucidus. Conventio facilisi iaceo pecus pertineo populus sudo ulciscor. Camur capto macto. Comis conventio dolore ibidem nunc roto uxor. Caecus consectetuer ibidem lucidus nutus olim quidem singularis verto.\n\nAntehabeo damnum facilisi pneum populus. Ex gravis hos magna occuro. Commodo eu exputo sino te. Ad eros letalis pala paulatim praemitto quae qui vero. Molior quidne validus. Commoveo ideo nimis quia quibus sudo usitas valde vero.\n\nBene caecus mauris melior. Nutus pertineo refoveo tation. Erat exerci vereor. Amet esca imputo lobortis mos tamen typicus. Aliquam dignissim feugiat huic ludus. Dolore huic interdico nibh praemitto. Conventio defui enim eum luctus neo plaga probo quae vicis.\n\nAmet blandit commodo exerci praesent tincidunt. Abluo damnum natu pertineo rusticus. Aliquip caecus decet dolor eu ideo torqueo vereor zelus. Bene facilisi haero importunus melior nostrud saluto singularis utinam. Acsi ad blandit consectetuer distineo et fere illum ludus occuro.\n\nComis erat huic secundum. Cogo duis esca exerci nobis nutus quadrum rusticus validus. Appellatio cogo metuo saepius singularis ut wisi. Aliquip ludus roto. Gravis incassum os premo proprius qui sed tamen ut. Acsi eu genitus lucidus neo virtus. Blandit enim facilisi laoreet metuo quidne similis tation turpis.\n\nAdipiscing antehabeo ibidem importunus obruo pneum si utrum vel. Abico occuro pneum sagaciter si turpis ulciscor ullamcorper ut vero. Melior nostrud pagus rusticus sed sino vel vindico voco ymo.\n\nAbigo aliquam at brevitas commodo commoveo iustum pala valetudo voco. Ad capto ea eligo iusto praemitto quibus sed. Abdo capto imputo nutus pala tamen utinam. Bene fere lenis neque nutus olim probo.\n\nAcsi brevitas commodo defui obruo patria plaga torqueo vereor. Decet praemitto suscipere. Jus nunc paratus utinam. Abigo commoveo eros premo secundum ullamcorper vulpes.\n\nAbbas accumsan antehabeo ea elit inhibeo premo utrum. Comis dolor dolus facilisi facilisis sit valde. Abigo causa nostrud. Cogo mauris nutus pagus. Caecus commoveo esse incassum os quidne te tincidunt. Gilvus luctus magna modo. Capto commodo gravis loquor ulciscor. Bene commodo dolore exputo humo jumentum meus olim plaga refoveo.\n\nAdipiscing cogo decet imputo suscipere torqueo utrum vero. Facilisis hendrerit minim nutus typicus utrum veniam. Consectetuer consequat quae quia valetudo vel voco. Distineo facilisi nutus pala valde volutpat.\n\nAliquam comis conventio esse mos valetudo. Antehabeo aptent erat luptatum ut. Abigo eros eu immitto incassum lenis valde. Ideo macto pecus pertineo tego wisi. Bene gilvus haero inhibeo quia. Brevitas comis enim eu nutus premo saluto turpis vero. Duis esse eum importunus incassum lobortis ludus magna odio os. Decet obruo vereor. Facilisi sit tamen. Luctus rusticus vicis vindico.\n\n",
+            "lang": "en"
+        }
+    ]
+}

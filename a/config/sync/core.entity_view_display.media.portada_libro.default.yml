@@ -1,0 +1,31 @@
+uuid: e4e79277-85b7-4f06-a11c-242d315a0691
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.media.portada_libro.field_media_image_1
+    - image.style.500
+    - media.type.portada_libro
+  module:
+    - image
+id: media.portada_libro.default
+targetEntityType: media
+bundle: portada_libro
+mode: default
+content:
+  field_media_image_1:
+    type: image
+    label: visually_hidden
+    settings:
+      image_link: ''
+      image_style: '500'
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  name: true
+  thumbnail: true
+  uid: true

@@ -1,0 +1,174 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/node\/350?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/node\/libro"
+        },
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/field_portada_libro": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/camur-capto-comis-consequat-in-jumentum-zelus.?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 350
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0a6ec94e-be42-4c38-bb41-923ab9bb601d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "libro"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-28T16:59:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/node\/libro\/field_portada_libro": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/camur-capto-comis-consequat-in-jumentum-zelus.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/media\/portada_libro"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c5c6a9ee-dc8d-4465-ba15-a4e813a45e56"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dolus Duis Nulla Pertineo",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-26T23:10:38+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-28T16:59:19+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Abico commodo enim euismod ibidem lobortis neque obruo. Camur damnum eum ideo lobortis refoveo turpis ulciscor validus vereor. Commodo eros eu facilisi macto nimis olim. Adipiscing ea macto molior praesent sit utrum. Abico autem capto imputo loquor singularis sit venio. Appellatio capto pagus tation utinam velit virtus.\n\nAliquam at brevitas caecus jugis letalis lobortis modo validus. Appellatio esse hos letalis patria pecus tincidunt. Pagus sit velit. Commoveo meus minim neo voco. Humo nisl os singularis utrum. Camur causa humo incassum proprius rusticus scisco tum vel vicis. Distineo luctus occuro persto similis tamen te uxor. Ea meus nibh te. Abdo eligo immitto mauris mos paulatim singularis sudo veniam.\n\nIlle suscipere ut. Cui dolore genitus lenis lobortis loquor magna rusticus utrum. Damnum distineo facilisis. Abigo facilisis immitto persto tincidunt ymo. Abigo esca interdico virtus vulputate. Antehabeo gravis incassum qui.\n\nAmet brevitas camur capto jugis pecus si sit sudo tum. Eligo fere humo iriure persto singularis zelus. Aliquip at paulatim ratis vulputate. Abluo consectetuer conventio dolore inhibeo quibus veniam.\n\nCaecus humo lobortis macto pneum quis saluto sit. Comis hos ludus oppeto patria singularis valde. Commoveo odio si usitas verto. Dolor elit enim eros praemitto uxor virtus.\n\nEros eu fere valde vulputate. Aliquip aptent blandit exputo ludus luptatum typicus. Adipiscing aliquip aptent diam erat hos immitto lucidus quidem saluto. Adipiscing esse neque populus premo sagaciter valde. Ex neo nutus saepius suscipit tamen tego uxor. Adipiscing blandit iriure lenis metuo natu paulatim valde. Ideo natu nisl sed. Ad amet dolus genitus metuo usitas.\n\nFacilisis pala paratus populus premo venio. Defui dignissim ideo quidne. Abdo augue feugiat gilvus. Adipiscing neque obruo scisco torqueo vel. Abico antehabeo hendrerit olim quibus torqueo zelus. Esse melior probo sudo ullamcorper ymo. Enim gilvus hos huic iusto praemitto sagaciter similis singularis tum.\n\nAbbas enim erat illum pecus pneum praesent validus. Aliquip eu haero nunc. Consequat eligo iaceo ibidem ludus quidne si sino uxor. Accumsan damnum hendrerit iriure olim pneum probo suscipere vereor voco. Abico decet diam eum gilvus hendrerit neque quidem quis vero. Hos incassum lobortis pneum probo vel. Antehabeo cogo eros jus ludus nibh nostrud typicus.\n\nAppellatio rusticus te. Autem damnum gilvus mos nutus premo utrum valde. Duis iriure jugis laoreet. Appellatio damnum eligo exerci incassum paratus persto sagaciter tincidunt ullamcorper. Haero jumentum mauris molior neo nibh occuro refero. Augue fere natu qui quis te.\n\nAcsi haero mauris odio populus suscipere utinam venio vereor. Ad genitus imputo neque qui suscipit valetudo. Incassum mauris praemitto. Cui distineo enim gemino inhibeo luctus metuo nutus patria zelus.\n\nGilvus ille ludus pagus persto quia. Et exerci gravis hos macto quae singularis. Commoveo dolor dolore ludus pertineo valde. Commoveo distineo gilvus iriure pecus sed singularis. Blandit incassum lenis neque patria praemitto quia refero refoveo tum. Ea facilisi haero letalis nutus suscipere usitas validus zelus. Damnum minim voco vulputate. Consectetuer quia utinam uxor.\n\nDuis gilvus ideo iusto lobortis probo refoveo tum velit voco. Abico imputo loquor mos ratis scisco tation. Abbas aliquam enim et ibidem neo suscipit vero. Camur eligo eros esca humo ideo natu populus sino. Commodo conventio huic odio qui. Esca haero jus ludus macto nibh paratus proprius sino typicus.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Abico commodo enim euismod ibidem lobortis neque obruo. Camur damnum eum ideo lobortis refoveo turpis ulciscor validus vereor. Commodo eros eu facilisi macto nimis olim. Adipiscing ea macto molior praesent sit utrum. Abico autem capto imputo loquor singularis sit venio. Appellatio capto pagus tation utinam velit virtus.<\/p>\n<p>Aliquam at brevitas caecus jugis letalis lobortis modo validus. Appellatio esse hos letalis patria pecus tincidunt. Pagus sit velit. Commoveo meus minim neo voco. Humo nisl os singularis utrum. Camur causa humo incassum proprius rusticus scisco tum vel vicis. Distineo luctus occuro persto similis tamen te uxor. Ea meus nibh te. Abdo eligo immitto mauris mos paulatim singularis sudo veniam.<\/p>\n<p>Ille suscipere ut. Cui dolore genitus lenis lobortis loquor magna rusticus utrum. Damnum distineo facilisis. Abigo facilisis immitto persto tincidunt ymo. Abigo esca interdico virtus vulputate. Antehabeo gravis incassum qui.<\/p>\n<p>Amet brevitas camur capto jugis pecus si sit sudo tum. Eligo fere humo iriure persto singularis zelus. Aliquip at paulatim ratis vulputate. Abluo consectetuer conventio dolore inhibeo quibus veniam.<\/p>\n<p>Caecus humo lobortis macto pneum quis saluto sit. Comis hos ludus oppeto patria singularis valde. Commoveo odio si usitas verto. Dolor elit enim eros praemitto uxor virtus.<\/p>\n<p>Eros eu fere valde vulputate. Aliquip aptent blandit exputo ludus luptatum typicus. Adipiscing aliquip aptent diam erat hos immitto lucidus quidem saluto. Adipiscing esse neque populus premo sagaciter valde. Ex neo nutus saepius suscipit tamen tego uxor. Adipiscing blandit iriure lenis metuo natu paulatim valde. Ideo natu nisl sed. Ad amet dolus genitus metuo usitas.<\/p>\n<p>Facilisis pala paratus populus premo venio. Defui dignissim ideo quidne. Abdo augue feugiat gilvus. Adipiscing neque obruo scisco torqueo vel. Abico antehabeo hendrerit olim quibus torqueo zelus. Esse melior probo sudo ullamcorper ymo. Enim gilvus hos huic iusto praemitto sagaciter similis singularis tum.<\/p>\n<p>Abbas enim erat illum pecus pneum praesent validus. Aliquip eu haero nunc. Consequat eligo iaceo ibidem ludus quidne si sino uxor. Accumsan damnum hendrerit iriure olim pneum probo suscipere vereor voco. Abico decet diam eum gilvus hendrerit neque quidem quis vero. Hos incassum lobortis pneum probo vel. Antehabeo cogo eros jus ludus nibh nostrud typicus.<\/p>\n<p>Appellatio rusticus te. Autem damnum gilvus mos nutus premo utrum valde. Duis iriure jugis laoreet. Appellatio damnum eligo exerci incassum paratus persto sagaciter tincidunt ullamcorper. Haero jumentum mauris molior neo nibh occuro refero. Augue fere natu qui quis te.<\/p>\n<p>Acsi haero mauris odio populus suscipere utinam venio vereor. Ad genitus imputo neque qui suscipit valetudo. Incassum mauris praemitto. Cui distineo enim gemino inhibeo luctus metuo nutus patria zelus.<\/p>\n<p>Gilvus ille ludus pagus persto quia. Et exerci gravis hos macto quae singularis. Commoveo dolor dolore ludus pertineo valde. Commoveo distineo gilvus iriure pecus sed singularis. Blandit incassum lenis neque patria praemitto quia refero refoveo tum. Ea facilisi haero letalis nutus suscipere usitas validus zelus. Damnum minim voco vulputate. Consectetuer quia utinam uxor.<\/p>\n<p>Duis gilvus ideo iusto lobortis probo refoveo tum velit voco. Abico imputo loquor mos ratis scisco tation. Abbas aliquam enim et ibidem neo suscipit vero. Camur eligo eros esca humo ideo natu populus sino. Commodo conventio huic odio qui. Esca haero jus ludus macto nibh paratus proprius sino typicus.<\/p>\n",
+            "summary": "Abico commodo enim euismod ibidem lobortis neque obruo. Camur damnum eum ideo lobortis refoveo turpis ulciscor validus vereor. Commodo eros eu facilisi macto nimis olim. Adipiscing ea macto molior praesent sit utrum. Abico autem capto imputo loquor singularis sit venio. Appellatio capto pagus tation utinam velit virtus.\n\nAliquam at brevitas caecus jugis letalis lobortis modo validus. Appellatio esse hos letalis patria pecus tincidunt. Pagus sit velit. Commoveo meus minim neo voco. Humo nisl os singularis utrum. Camur causa humo incassum proprius rusticus scisco tum vel vicis. Distineo luctus occuro persto similis tamen te uxor. Ea meus nibh te. Abdo eligo immitto mauris mos paulatim singularis sudo veniam.\n\nIlle suscipere ut. Cui dolore genitus lenis lobortis loquor magna rusticus utrum. Damnum distineo facilisis. Abigo facilisis immitto persto tincidunt ymo. Abigo esca interdico virtus vulputate. Antehabeo gravis incassum qui.\n\nAmet brevitas camur capto jugis pecus si sit sudo tum. Eligo fere humo iriure persto singularis zelus. Aliquip at paulatim ratis vulputate. Abluo consectetuer conventio dolore inhibeo quibus veniam.\n\nCaecus humo lobortis macto pneum quis saluto sit. Comis hos ludus oppeto patria singularis valde. Commoveo odio si usitas verto. Dolor elit enim eros praemitto uxor virtus.\n\nEros eu fere valde vulputate. Aliquip aptent blandit exputo ludus luptatum typicus. Adipiscing aliquip aptent diam erat hos immitto lucidus quidem saluto. Adipiscing esse neque populus premo sagaciter valde. Ex neo nutus saepius suscipit tamen tego uxor. Adipiscing blandit iriure lenis metuo natu paulatim valde. Ideo natu nisl sed. Ad amet dolus genitus metuo usitas.\n\nFacilisis pala paratus populus premo venio. Defui dignissim ideo quidne. Abdo augue feugiat gilvus. Adipiscing neque obruo scisco torqueo vel. Abico antehabeo hendrerit olim quibus torqueo zelus. Esse melior probo sudo ullamcorper ymo. Enim gilvus hos huic iusto praemitto sagaciter similis singularis tum.\n\nAbbas enim erat illum pecus pneum praesent validus. Aliquip eu haero nunc. Consequat eligo iaceo ibidem ludus quidne si sino uxor. Accumsan damnum hendrerit iriure olim pneum probo suscipere vereor voco. Abico decet diam eum gilvus hendrerit neque quidem quis vero. Hos incassum lobortis pneum probo vel. Antehabeo cogo eros jus ludus nibh nostrud typicus.\n\nAppellatio rusticus te. Autem damnum gilvus mos nutus premo utrum valde. Duis iriure jugis laoreet. Appellatio damnum eligo exerci incassum paratus persto sagaciter tincidunt ullamcorper. Haero jumentum mauris molior neo nibh occuro refero. Augue fere natu qui quis te.\n\nAcsi haero mauris odio populus suscipere utinam venio vereor. Ad genitus imputo neque qui suscipit valetudo. Incassum mauris praemitto. Cui distineo enim gemino inhibeo luctus metuo nutus patria zelus.\n\nGilvus ille ludus pagus persto quia. Et exerci gravis hos macto quae singularis. Commoveo dolor dolore ludus pertineo valde. Commoveo distineo gilvus iriure pecus sed singularis. Blandit incassum lenis neque patria praemitto quia refero refoveo tum. Ea facilisi haero letalis nutus suscipere usitas validus zelus. Damnum minim voco vulputate. Consectetuer quia utinam uxor.\n\nDuis gilvus ideo iusto lobortis probo refoveo tum velit voco. Abico imputo loquor mos ratis scisco tation. Abbas aliquam enim et ibidem neo suscipit vero. Camur eligo eros esca humo ideo natu populus sino. Commodo conventio huic odio qui. Esca haero jus ludus macto nibh paratus proprius sino typicus.\n\n",
+            "lang": "en"
+        }
+    ]
+}

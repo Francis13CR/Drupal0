@@ -1,0 +1,15 @@
+uuid: f492d743-0cc2-4afe-b94f-3d0a19cceeae
+langcode: en
+status: true
+dependencies: {  }
+name: '500'
+label: '500*500'
+effects:
+  87b25f5d-a517-4911-815e-aeb49a9f068e:
+    uuid: 87b25f5d-a517-4911-815e-aeb49a9f068e
+    id: image_scale
+    weight: 1
+    data:
+      width: 500
+      height: 500
+      upscale: true

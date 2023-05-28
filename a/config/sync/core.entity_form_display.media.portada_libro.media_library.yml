@@ -1,0 +1,37 @@
+uuid: a41166b8-62ce-4485-806f-52fe3bc1b8a1
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.media.media_library
+    - field.field.media.portada_libro.field_media_image_1
+    - image.style.thumbnail
+    - media.type.portada_libro
+  module:
+    - image
+id: media.portada_libro.media_library
+targetEntityType: media
+bundle: portada_libro
+mode: media_library
+content:
+  field_media_image_1:
+    type: image_image
+    weight: 5
+    region: content
+    settings:
+      progress_indicator: throbber
+      preview_image_style: thumbnail
+    third_party_settings: {  }
+  name:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  path: true
+  status: true
+  uid: true
