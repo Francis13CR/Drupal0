@@ -1,0 +1,29 @@
+uuid: c7788f3e-23b2-423e-b5bd-c1e73a788b90
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_archivo
+    - media.type.archivos
+    - node.type.libro
+id: node.libro.field_archivo
+field_name: field_archivo
+entity_type: node
+bundle: libro
+label: 'archivo de licencia'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings:
+    target_bundles:
+      archivos: archivos
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

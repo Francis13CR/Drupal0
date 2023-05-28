@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.node.libro.body
+    - field.field.node.libro.field_archivo
     - field.field.node.libro.field_portada_libro
     - node.type.libro
   module:
@@ -20,6 +21,15 @@ content:
     settings: {  }
     third_party_settings: {  }
     weight: 101
+    region: content
+  field_archivo:
+    type: entity_reference_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 103
     region: content
   field_portada_libro:
     type: entity_reference_entity_view

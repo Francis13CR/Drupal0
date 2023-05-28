@@ -370,7 +370,7 @@ display:
       menu:
         type: normal
         title: recipes
-        enabled: false
+        enabled: true
         menu_name: main
         parent: ''
     cache_metadata:

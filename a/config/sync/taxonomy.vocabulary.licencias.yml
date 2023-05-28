@@ -1,0 +1,8 @@
+uuid: 78f727e8-ba57-40a1-9432-6c8b04a296f5
+langcode: en
+status: true
+dependencies: {  }
+name: Licencias
+vid: licencias
+description: 'licencias de derecho de autor'
+weight: 0

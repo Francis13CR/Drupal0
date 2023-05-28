@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.node.libro.body
+    - field.field.node.libro.field_archivo
     - field.field.node.libro.field_portada_libro
     - node.type.libro
   module:
@@ -30,6 +31,13 @@ content:
     weight: 10
     region: content
     settings: {  }
+    third_party_settings: {  }
+  field_archivo:
+    type: media_library_widget
+    weight: 123
+    region: content
+    settings:
+      media_types: {  }
     third_party_settings: {  }
   field_portada_libro:
     type: media_library_widget

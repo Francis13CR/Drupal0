@@ -1,0 +1,13 @@
+uuid: 69c6e750-553c-4802-82e0-d7c5fdf19070
+langcode: en
+status: true
+dependencies: {  }
+id: archivos
+label: Archivos
+description: 'Archivos asociados a una licencia'
+source: file
+queue_thumbnail_downloads: false
+new_revision: false
+source_configuration:
+  source_field: field_media_file
+field_map: {  }

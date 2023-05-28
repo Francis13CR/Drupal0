@@ -5,6 +5,7 @@ dependencies:
   config:
     - core.entity_view_mode.node.teaser
     - field.field.node.libro.body
+    - field.field.node.libro.field_archivo
     - field.field.node.libro.field_portada_libro
     - node.type.libro
   module:
@@ -29,4 +30,5 @@ content:
     weight: 100
     region: content
 hidden:
+  field_archivo: true
   field_portada_libro: true
