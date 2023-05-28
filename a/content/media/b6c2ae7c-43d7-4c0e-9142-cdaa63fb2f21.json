@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/abico-humo-magna-neque-plaga-proprius-roto-tum-venio-vicis.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/media\/image"
+        },
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/image\/revision_user": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/image\/field_media_image": [
+            {
+                "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-04\/generateImage_rcQtYT.gif",
+                "lang": "en"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "b6c2ae7c-43d7-4c0e-9142-cdaa63fb2f21"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-04-27T15:23:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/image\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8c52b7e7-8ba3-4346-a487-d04baad2844c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/relation\/media\/image\/field_media_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/sites\/default\/files\/2023-04\/generateImage_rcQtYT.gif"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ce58fa16-79ac-4b7a-864a-2ddb934b4cfa"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Antehabeo dolor euismod mos nostrud qui roto singularis tum vicis. Dolor iusto pecus quibus saluto. Huic iusto nostrud patria singularis. Aliquip ea esse ex gemino iustum meus nobis pertineo refero.\n\nIdeo inhibeo nunc. Abico abluo decet defui dolor eligo feugiat nunc. Damnum hos iriure scisco. Erat feugiat ideo lenis olim qui quis tego validus. Consequat facilisi illum incassum iriure jugis nostrud ratis usitas valde. Augue et odio patria typicus.\n\nElit facilisis nutus praesent refero tum valetudo. Damnum euismod feugiat gemino ibidem interdico letalis meus minim rusticus. Duis eros iustum luctus premo te ut. Aliquam autem eligo in ludus nunc praesent. Blandit caecus causa commodo eligo illum incassum. Duis enim et exerci nibh velit. Abico amet euismod interdico ratis. Ex fere meus modo ulciscor.\n\nAptent consectetuer cui dolore esca facilisi illum importunus jugis ulciscor. Acsi duis esse hendrerit illum interdico occuro paratus quadrum utrum. Appellatio eum facilisis feugiat neque paratus vel.\n\nDolor incassum lobortis odio pagus populus praesent ut. Autem duis ex incassum saepius saluto uxor volutpat. Aliquam cui distineo hos ibidem loquor premo quadrum refoveo. Blandit et oppeto pagus similis utrum vel. Abdo facilisis feugiat hendrerit lobortis mauris meus. Decet esse nobis verto. Aptent camur dolor gemino haero ideo importunus lenis. Aliquam exputo inhibeo quidem tamen vereor.\n\nPremo quidem torqueo ulciscor veniam. Accumsan aliquam quia tincidunt turpis vulpes. Abigo defui iustum nutus. Abico dignissim distineo gravis luptatum sed tamen typicus utrum.\n\nAliquam ex luptatum pala. Augue cui eu nibh quadrum. Hendrerit hos ludus valetudo. Dignissim exerci pertineo saepius scisco. Dolus eros lucidus venio. Causa commoveo esse molior quis scisco utinam validus. At causa ille iriure metuo paratus sed verto vicis. Antehabeo causa ea interdico natu odio vulputate.\n\nAntehabeo consectetuer elit esse eum genitus ludus meus nostrud quadrum. Abbas commodo laoreet metuo obruo scisco te tum utinam. Cogo eu ex gilvus pala torqueo validus venio. Abdo aliquip importunus scisco turpis vicis vulpes.\n\nAbbas accumsan hos occuro praesent similis virtus. Aliquam brevitas exerci ille nobis plaga rusticus volutpat. At eu quae utrum. Fere odio patria virtus. Distineo molior neque pecus rusticus singularis suscipit. Illum occuro saluto. Acsi molior praemitto tamen. Aliquam mauris pagus. Accumsan autem natu nisl proprius tego. Consequat eu iustum molior nimis oppeto. Bene luptatum nunc pagus tation. Commoveo duis gemino jumentum occuro suscipit utrum.\n\nAbigo illum jus praesent quis secundum tego. Ad brevitas dolor elit macto molior odio populus saluto sudo. Humo importunus zelus. Amet erat nutus scisco.\n\nAliquam appellatio dolus obruo occuro olim pecus praesent torqueo. Exputo jumentum nunc pala persto qui tincidunt validus verto. Dolor genitus in jumentum olim praesent voco ymo zelus. Euismod feugiat huic iaceo lucidus nibh vindico zelus. Decet modo pala scisco sit.\n\nAmet brevitas esca luptatum natu neque persto refero sed. Duis jugis jumentum jus qui velit. Abdo fere lobortis modo. Ea erat illum letalis metuo odio patria qui similis utrum. Antehabeo aptent ratis. Duis euismod exerci feugiat hos pagus proprius. Conventio diam haero magna nimis venio. Dolore exputo genitus ibidem obruo olim velit. Aliquip iriure luctus natu pertineo tation uxor.\n\n"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/abico-humo-magna-neque-plaga-proprius-roto-tum-venio-vicis.",
+            "pid": 6,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ]
+}
