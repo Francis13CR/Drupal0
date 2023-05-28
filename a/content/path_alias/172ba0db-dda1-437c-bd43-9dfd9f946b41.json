@@ -1,0 +1,40 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "id": [
+        {
+            "value": 5
+        }
+    ],
+    "uuid": [
+        {
+            "value": "172ba0db-dda1-437c-bd43-9dfd9f946b41"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "zxx"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/conventio-haero-paulatim-refoveo-te-valetudo."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-drupal0-h77jgcb5evo.ws-us98.gitpod.io\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "id": [
+        {
+            "value": 9
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6e3abe15-aee7-4dcf-b5fe-aa441f58f5c9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/156"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/node-156-chefs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
